@@ -40,10 +40,12 @@ img {
 }
 
 .category-container a {
-    font-size: 1.2rem;
+    font-size: 0.9rem;
     text-decoration: none;
     color: var(--primary-color);
 }
+
+
 
 /*
 *
@@ -68,11 +70,12 @@ img {
 }
 
 .index-info-container h1 {
-    font-size: 7rem;
+    font-size: 6rem;
+    color: #554994;
 }
 
 .index-info-container p {
-    font-size: 1rem;
+    font-size: 0.9rem;
     letter-spacing: 2px;
 }
 

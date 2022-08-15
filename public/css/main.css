@@ -195,6 +195,10 @@ img {
         height: 80vh;
      
     }
+
+    .skills-category-container h1 {
+        font-size: 40px;
+    }
     .skills-circle {
         font-size: 0.9rem;
         width: 140px;

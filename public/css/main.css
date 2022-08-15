@@ -192,11 +192,11 @@ img {
     }
 
     .skills-category-container {
-        overflow: hidden;
+  
         height: 60vh;
-        margin-left: 5px;
-        margin-right: 5px;
-        border-radius: 0%;
+        border-top-left-radius: 180px;
+        border-top-right-radius: 180px;
+        
      
     }
 
@@ -209,6 +209,34 @@ img {
         height: 140px;
     }
 
+    .button-icon {
+        border: none;
+        display: block;
+        padding: 5px;
+        background:none;
+
+    }
+
+    .t {
+        font-weight: bold;
+        color: #554994;
+    }
+
+    a {
+        text-decoration: none;
+        float: right;
+    }
+
+    .vid-container {
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .pi {
+        font-style: italic;
+        text-align: center;
+    }
     
 
     

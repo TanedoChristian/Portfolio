@@ -192,7 +192,11 @@ img {
     }
 
     .skills-category-container {
-        height: 80vh;
+        overflow: hidden;
+        height: 60vh;
+        margin-left: 5px;
+        margin-right: 5px;
+        border-radius: 0%;
      
     }
 

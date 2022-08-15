@@ -70,7 +70,7 @@ img {
 }
 
 .index-info-container h1 {
-    font-size: 6rem;
+    font-size: 5rem;
    
 }
 
@@ -146,6 +146,59 @@ img {
 
 }
 
+.show-icon {
+    display: none;
+}
+
 .primary-color {
     color: #554994;   
+}
+
+
+
+
+@media (max-width: 850px){
+    .show-icon {
+        display: block;
+    }
+    .category-container ul{
+        display: none;
+    }
+    .category-container {
+        display: flex;
+        justify-content: flex-end;
+    }
+
+    .main-banner-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .index-info-container {
+        width: 90%;
+        height: 100%;
+    }
+
+    .index-info-container h1 {
+        font-size: 30px;
+    }
+
+    .index-info-container p {
+        font-size: 1rem;
+    }
+
+    .skills-category-container {
+        height: 80vh;
+        border-radius: 0%;
+    }
+    .skills-circle {
+        font-size: 0.9rem;
+        width: 140px;
+        height: 140px;
+    }
+
+    
+
+    
+    
 }

@@ -25,4 +25,8 @@ multiplications in 6 seconds
 divisions in 15 seconds 
 complex oeration, over 1 minute
 
+Colossus mark 1 
+
+Alan Turing's contribution - The bombe (ELectromechanical Machine)
+
 

@@ -29,4 +29,8 @@ Colossus mark 1
 
 Alan Turing's contribution - The bombe (ELectromechanical Machine)
 
+ENIAC - Electronic Numerical Integrator And Calculator - 1946 - John mauchly - J. Presper Eckert
+
+IBM 607 - 1957 - Full transistored Computer
+
 

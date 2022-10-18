@@ -1,23 +1,21 @@
 abacus - earliest computing device invented in Mesopotamia - 2500 BCE
 
 astrole - 4000yrs
+
 Charles Babbage - early  computer pioneer
-
-
 
 Earliest documented use of word computer is from 1613 by Richard Braithwait
 
-
-
-
 Charles Babbage propose new mechanical device called the Difference Engine
+
 polynomials - describe the relationship between serveral variables - like range and air pressure
 
-
 Analytical Engine was a "general pyrpose computer"
+
 Hollerieth machine was roughly 10x faster than manual tabulations and the Cencus
 
 One of largest electronic computer build was Harvard Mark 1 - 1944- IBM - 765k Components, 3 million connections, and 500 miles of wire
+
 Early uses of this technology was running simulations of manhattan project
 
 3 additions of subtraction per second
@@ -32,5 +30,30 @@ Alan Turing's contribution - The bombe (ELectromechanical Machine)
 ENIAC - Electronic Numerical Integrator And Calculator - 1946 - John mauchly - J. Presper Eckert
 
 IBM 607 - 1957 - Full transistored Computer
+
+Multiplexer
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

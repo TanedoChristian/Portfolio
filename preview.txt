@@ -1,5 +1,8 @@
+CRASH COURSE #7 
+Level of abstraction 
+    Control Unit 
+    Nifty
 abacus - earliest computing device invented in Mesopotamia - 2500 BCE
-
 astrole - 4000yrs
 
 Charles Babbage - early  computer pioneer
@@ -34,7 +37,309 @@ IBM 607 - 1957 - Full transistored Computer
 Multiplexer
 
 
+Microarchitecture - connect two lines
+
   
+Phases of CPU operation
+
+Fetch phase (1st phase) - retreive instruction 
+Execute Phase (2nd phase) - 
+Clock Speed - Speed at which a CPU can carry out each step (hz)
+
+Instruction Length
+Variable length instructions
+Immediate Value
+
+Bus - CPU to Ram transport
+
+Cache
+Cache Hit 
+
+
+Fetch Decode Execute
+Dirty bit - cache special flag for each block of memory it stores
+Supercomputer
+Worlds Faster computer - The National Supercomputing in wuxi china 40960 cpu 256 cores 10m million cores 1.45 hz
+
+
+Joseph Marie Jacquard 1801 invented programmable loop (Punch Card)
+
+Plugboards
+
+First Von nuemann - 1948- university og manchester - baby
+
+Panel Programming - pre1980
+
+Altair 8800 first commercially successful home computer
+    - preassembled
+    - kit
+
+
+
+({
+    Add two numbers
+
+    Load A 14
+    Load B 15
+
+    Add B A
+    Store A 13
+    Halt
+})
+
+
+Fortran - formula translation 1957
+
+John Backus - Fortran Director
+Commitee on Data Systems Languages - 1959 - advised Grace Hopper
+
+COBOL
+
+
+Merge sort(O log n)
+Selection Sort(n2)
+Graph Sort 
+
+
+Edsger Dijkstra - dijkstra algorithm
+dijkstra algorithm (On2)
+
+Linear datastructure (Array, Linklist, queue, stack)
+Non linear (Graph, Trees)
+
+Entsscheidungsproblem - solved by alan turing
+
+Jack Kilby
+IC
+Photolithography - using light to transfer complex patterns to a material
+
+Moores Law
+Microprocessor 2,300 transistor
+1980 - 30k transistors
+1990 - 1 million transistor 
+2010 - 1 billion transistor
+
+Atlas
+Memory protection 
+
+Dennis Ritchie & Ken Thompson - created Unix
+I/O - Kernel
+
+Non volatile - slow
+Volatile - faster
+
+earliest storage - paper punch cards
+largest program ever punch to cards - SAGE 1958 - 62500 Punchcards - 5mb datastructure
+
+Whirlwind 1 computer - first big use of core memory
+UNIVAC
+
+RAMAC 305 - first computer with a disk drive
+Floppy disk 
+Laser disk
+
+
+volatile memory - Storage that is wiped clean when power is cut off from a device
+storage - the process of maintaining information in memory over time
+Largest program ever punched onto cards was - stored on 62,500 punch cards.
+Delay Line Memory
+A tube and filled with mercury. At one end put a speaker at the other end a microphone. When you pulse the speaker, it creates a pressure wave. This takes time to propagate to the other end of the tube, where it hits the microphone, converting it back into an electrical signal. And we can use this propagation delay to store data.
+
+sequential or cyclic-access memory - You could only read one bit of data from a tube at any given instant and if you wanted to access a specific bit, like bit 112, you'd have to wait for it to come around in the loop.
+
+magnetostrictive delay lines - an electromagnet twisted a long wire one way or the other to represent ones or zeros
+
+magnetic core memory - Memory that stores binary data (0 or 1) in the orientation of magnetic charges in ferrite cores about one-sixeenth-inch in diameter.
+
+Magnetic tape - a medium for magnetic recording, made of a thin, magnetizable coating on a long, narrow strip of plastic film
+
+Magnetic Drum Memory -a metal cylinder coated in a magnetic material for recording data. The drum was rotated continuously, and positioned along its length were dozens of read and write heads. These would wait for the right spot to rotate underneath them to read or write a bit of data.
+
+hard disk drive (HDD) -A direct access storage device used to store and retrieve data from rapidly rotating disks coated with magnetic material.
+
+file format - Indicates the manner in which the data a file contains are stored on the disk.
+
+jpeg - Most common graphic file format, full color graphic format (16.7 million colors) with a relatively small file size
+
+.txt - a computer format that is structured as a sequence of lines of electronic text
+
+mp3 - standard format for music files sent over the Internet that compresses music.
+
+WAV -(Waveform Audio File Format) an audio coding format standard for storing an audio bitstream of uncompressed audio data.
+
+metadata - data about data
+
+Metadata is stored at the front of the file, ahead of any actual data, in a - header
+
+bmp -is a raster graphics image file format used to store digital images.
+
+pic -the native file format for Pictor Paint and Graphics Animation System for Professionals (GRASP) (also by Bridges) and became the first widely accepted DOS imaging standard
+
+pixel -Short for "picture element" it is the fundamental unit of a digital image, typically a tiny square or dot which contains a single point of color of a larger image.
+
+Run length encoding - reduce redundant info (straight forward)
+
+Huffman Tree - method for generating efficient codes (David Albert Huffman)
+
+PDP-1 - greate example of early computing with graphics 1960
+
+Cathode Ray Tubes
+
+direct the electron beam to trace out shapes - Vector Scanning
+
+Repeatedly follow a fixed path top left to bottom right - Raster Scanning
+
+LCD - (Liquid Crystal Display)
+
+read characters out of ram and convert them into raster graphics - Character Generator
+
+Computer space - commercial arcade video game
+
+TR-55 Transistor Radio - 1955 first sony product was released
+
+Sputnik 1 - first satellite - 1957
+Yuri Gagarin - 1961 - first human in space
+Apollo Guidance Computer
+
+Homebrew Computer Club 
+
+1977 Trinity
+    APPL 2 
+    trs-80 model 1
+    Commodore pet 2001
+
+
+Macintosh - 1984 - GUI
+
+collision - talking components at the same time
+
+Collision domain - shrink devices
+
+
+Circuit switching
+
+Packet Switching - Chop up big transimittion to smaller packets and passing these along flexible routes with spare capacity
+
+Physical layers
+Network Layer
+
+
+
+HyperText
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -198,6 +198,12 @@ img {
     .index-info-container p {
         font-size: 1rem;
     }
+    
+    .button-icon {
+        background-color: black;
+        color: white;
+        border-radius: 10px;
+    }
 
     .skills-category-container {
   

@@ -1,0 +1,4320 @@
+Early Computing: Crash Course Computer Science #1
+Study online at https://quizlet.com/_5ytw7o
+
+1. The earliest recognized device for computing was the _____________, invented in
+Mesopotamia around 2500 BCE.
+
+abacus
+
+2. Transistors in just your smartphones, comput- they're just simple maers can seem pretty complicated, but really,
+chines that perform complex actions through
+many layers of abstraction
+
+3. astrolabe
+
+An instrument used by
+sailors to determine their
+location by observing the
+position of the stars and
+planets
+
+4. slide rule
+
+A manual calculator
+invented by William
+Oughtred that uses John
+Napier's logarithms to
+perform complex engineering and scientific calculations
+
+1/5
+
+Early Computing: Crash Course Computer Science #1
+Study online at https://quizlet.com/_5ytw7o
+
+5. These devices made something that was previ- and at the same time, amously laborious to calculate much faster, easier, plified our mental abilities
+and often more accurate -- it lowered the barrier
+to entry,
+
+6. Charles Babbage
+
+He is known as the "Father of Computers." He
+developed the Difference
+Engine and the Analytical Engine. These two
+machines were powered
+by steam to move the
+punch cards and operate
+the gears. His ideas were
+later used to design calculators and computers.
+
+7. In the olden days a computer was a person who did calculations, sometimes with the help of machines, but often not.
+
+2/5
+
+Early Computing: Crash Course Computer Science #1
+Study online at https://quizlet.com/_5ytw7o
+
+8. Step Reckoner
+
+a digital mechanical calculator invented by the
+German mathematician
+Gottfried Wilhelm Leibniz
+
+9. The military was among the first to apply
+
+computing to complex
+problems.
+
+10. Difference Engine
+
+automatic mechanical
+calculator designed to
+tabulate polynomial functions created by Charles
+Babbage
+
+11. Analytical Engine
+
+1st mechanical computer.
+Ran off of punched cards.
+Created by Charles Babbage, but never completed by him.
+3/5
+
+Early Computing: Crash Course Computer Science #1
+Study online at https://quizlet.com/_5ytw7o
+
+12. Ada Lovelace
+
+She is considered to be
+the first computer programmer. She wrote a
+computer language for
+the Analytical Engine.
+
+13. Herman Hollerith
+
+He invented the "Tabulating Machine." The Tabulating Machine used
+punch cards to store information. It was later used
+to tabulate the U.S. Census.
+
+14. The Tabulating Machine Company, which later The International Busimerged with other machine makers in 1924 to ness Machines Corporabecome
+tion or IBM
+
+4/5
+
+Early Computing: Crash Course Computer Science #1
+Study online at https://quizlet.com/_5ytw7o
+
+5/5
+
+Electronic Computing: Crash Course Computer Science #2
+Study online at https://quizlet.com/_5ytx0s
+
+1. One of the largest electro-meHarvard Mark I
+chanical computers built was the
+_______________________, completed in
+1944 by IBM for the Allies during World War
+2. It contained 765,000 components, three million connections, and five hundred miles of
+wire. To keep its internal mechanics synchronized, it used a 50-foot shaft running right
+through the machine driven by a five horsepower motor.
+2. In a relay, there is a
+
+control wire that determines whether a circuit is
+opened or closed. The control wire connects to a coil
+of wire inside the relay.
+When current flows through
+the coil, an electromagnetic field is created, which in
+turn, attracts a metal arm
+inside the relay, snapping
+it shut and completing the
+circuit.
+
+3. The Harvard Mark I could do
+
+3 additions or subtractions
+per second; multiplications
+took 6 seconds, and divisions took 15. And more
+complex operations, like
+a trigonometric function,
+could take over a minute.
+
+4. In September 1947, operators on the Harvard "From then on, when anyMark II pulled a dead moth from a malfunction- thing went wrong with a
+ing relay.
+computer, we said it had
+bugs in it." And that's where
+we get the term computer
+bug.
+1/3
+
+Electronic Computing: Crash Course Computer Science #2
+Study online at https://quizlet.com/_5ytx0s
+
+5. John Ambrose Fleming
+
+In 1904, English physicist who developed a new
+electrical component called
+a thermionic valve, which
+housed two electrodes inside an airtight glass bulb
+- this was the first vacuum
+tube.
+
+6. thermionic emission
+
+the release of electrons
+from the tungsten filament
+when the electrical current
+passes through it and heats
+the filament
+
+7. diode
+
+a semiconductor device
+with two terminals, typically
+allowing the flow of current
+in one direction only.
+
+8. triode
+
+a vacuum tube that has
+three electrodes
+
+9. Colossus Mk 1
+
+first large-scale use of vacuum tubes for computing
+that was designed by engineer Tommy Flowers and
+completed in December of
+1943. It was installed at
+Bletchley Park, in the UK,
+and helped to decrypt Nazi
+communications.
+
+10. Alan Turing
+
+created first operational
+electronic digital computer
+in the 1940s and turing machine
+
+11. ENIAC
+
+Electronic Numerical Integrator and Comput2/3
+
+Electronic Computing: Crash Course Computer Science #2
+Study online at https://quizlet.com/_5ytx0s
+
+er; U.S. government-sponsored machine developed
+to calculate the settings
+used for weapons
+12. In 1947, Bell Laboratory scientists John
+transistor
+Bardeen, Walter Brattain, and William Shockley invented the _____________.
+13. What made the transistor amazing?
+
+-solid state component reducing wear and tear
+- it could switch between on
+and off states 10,000 times
+per second
+-could be made smaller
+than the smallest possible
+relays or vacuum tubes
+
+14. IBM 608
+
+Released in 1957 - the
+first fully transistor-powered, commercially-available computer. It contained
+3,000 transistors and could
+perform 4,500 additions, or
+roughly 80 multiplications
+or divisions, every second.
+
+3/3
+
+Boolean Logic & Logic Gates: Crash Course Computer Science #3
+Study online at https://quizlet.com/_5ytxpr
+
+1. Binary
+
+A way of representing information using only two options.
+
+2. ternary
+
+three part form (ABA)
+
+3. quinary
+
+consisting of five
+
+4. The more intermedi- the harder it is to keep them all separate.
+ate states there are,
+5. Boolean Algebra
+
+A mathematical notation for expressing two-valued logical functions. Invented by George Boole, a
+self-taught English mathematician in the 1800s. He
+was interested in representing logical statements that
+went "under, over, and beyond"
+
+6. There are three fun- a NOT, an AND, and an OR operation.
+damental operations
+in Boolean Algebra:
+7. In boolean terms,
+when the input is
+true,
+
+the output is true.
+
+8. In boolean terms,
+when the input is
+false,
+
+the output is false.
+
+9. NOT gate
+
+input will be off and the output will be on
+
+10. AND gate
+
+takes two inputs, but still has a single output. In this
+case the output is only true if both inputs are true.
+
+1/2
+
+Boolean Logic & Logic Gates: Crash Course Computer Science #3
+Study online at https://quizlet.com/_5ytxpr
+
+11. OR gate
+
+where only one input of the two inputs has to be true
+for the output to be true
+
+12. Exclusive OR (XOR) where only one input of the two inputs has to be true
+for the output to be true or if both inputs are true, the
+output is false.
+
+13. Logic Gate
+
+An electrical circuit that produces output as determined by the corresponding logic table.
+
+2/2
+
+Representing Numbers and Letters with Binary: Crash Course Computer
+Science #4
+Study online at https://quizlet.com/_5ytyws
+
+1. Instead of 'true'
+and 'false',
+
+we can call these two states 'one' and 'zero'
+
+2. base 2
+
+The name given to the counting system for Binary
+
+3. binary number
+101
+
+5
+
+4. number in binary: 10110111
+
+1*128 + 0*64 + 1*32 + 1*16 + 0*8 + 1*4 + 1*2 + 1*1 = 183
+
+5. 11 in binary
+
+3
+
+6. 11001010 in bina- 202
+ry
+7. Each of these bi- bit
+nary digits 1 or 0
+is called a
+8. 8-bit numbers
+0 and highest value of 255, which requires all eight bits to
+with their lowest be set to 1. That's 256 different values, or 2^8
+value of
+9. A byte is
+
+8 bits
+
+10. Terabyte (TB)
+
+eight trillion 1s and 0s or said another way 1 trillion bytes
+
+11. Kilobyte (KB)
+
+2^10 bytes, or 1024
+
+12. Megabyte (MB)
+
+1 million bytes or 8 million bits
+
+13. Gigabyte (GB)
+
+1 billion bytes or 8 billion bits
+
+14. 64-bit computer
+
+operate in chunks of 64 bits
+
+15. The largest value 9.2 quintillion
+a 64-bit number
+can represent is
+around
+1/2
+
+Representing Numbers and Letters with Binary: Crash Course Computer
+Science #4
+Study online at https://quizlet.com/_5ytyws
+
+16. Format used by
+IEEE 754 Standard
+
+[significand] x 10^[exp]
+
+17. IEEE 754 Standard
+
+defines formats for 16, 32, 64, and 128 bit floating point
+arithmetic with a binary exponent as well as 64 and 128
+with a decimal exponent
+
+18. 32-bit floating-point number,
+
+the first bit is used for the sign of the number, positive
+or negative. The next eight bits are used to store the
+exponent, and the remaining 23 bits are used to store the
+significand.
+
+19. ASCII (American a code for representing English characters as numbers,
+Standard Code with each letter assigned a number from 0 to 127
+for Information
+Interchange)
+20. A lowercase "a" 97
+is represented by
+the number
+21. A capital "A"
+
+65
+
+22. interoperability
+
+The ability, generally by adoption of standards, of systems
+to work together
+
+23. mojibake
+
+'scrambled text'
+
+24. Unicode
+
+A character code that enables most of the languages
+of the world to be symbolized with a special character
+identification.
+
+2/2
+
+How Computers Calculate - the ALU: Crash Course Computer Science #5
+Study online at https://quizlet.com/_5yw54n
+
+1. ALU
+
+Arithmetic and Logic Unit - does all mathematical calculations and makes all logical decisions
+
+2. Intel 74181
+
+the first complete ALU that fit entirely inside a single chip,
+which was a huge engineering feat at the time
+
+3. There are only
+0+0=0
+four possible in- 1 + 0 = 1
+put combina0+1=1
+tions. The first
+three are:
+4. half adder
+
+Logic circuit with two inputs and two outputs. The inputs
+are a bit from the augend and a bit from the addend. The
+outputs are the sum bit produced by the addition of the
+bit from the addend with the bit from the augend and the
+resulting carry (COUT) bit, which will be added to the next
+stage.
+
+5. CARRY bit
+
+Bit used to indicate when an carry or borrow has been
+generated in an arithmetic operation
+
+6. SUM bit
+
+in one column is a two-bit (two-digit) number, the least
+significant figure is written as part of the total sum and the
+most significant figure is "carried" to the next left column.
+
+7. Full Adder
+
+A circuit that computes the sum of two bits, taking an input
+carry bit into account
+
+8. 8-bit ripple carry a circuit that takes two 8-bit numbers, let's call them A and
+adder
+B, and adds them together. Let's start with the very first
+bit of A and B, which we'll call A0 and B0. At this point,
+there is no carry bit to deal with, because this is our first
+addition. So we can use our half adder to add those two
+bits together. The output is SUM0. Now we want to add A1
+and B1 together. It's possible there was a carry from the
+previous addition of A0 and B0, so this time we need to
+use a full adder that also inputs the carry bit. We output
+this result as SUM1. Then, we take any carry from this full
+adder and run it into the next full adder that handles A2
+1/2
+
+How Computers Calculate - the ALU: Crash Course Computer Science #5
+Study online at https://quizlet.com/_5yw54n
+
+and B2. And we just keep doing this in a big chain so all
+8 bits have been added. Notice how the carry bits ripple
+forward to each subsequent adder.
+9. Notice how our overflow.
+last full adder
+has a carry out.
+If there is a carry into the ninth
+bit, it means
+the sum of the
+two numbers is
+too large to fit
+into eight bits.
+This is called an
+____________.
+10. Overflow
+
+can usually cause errors and unexpected behavior
+
+11. What was the
+To make it past level 255, the largest number storable in 8
+greatest right of bits, to level 256, the ALU overflowed. This caused a bunch
+passage for Pac- of errors and glitches, making the level unbeatable.
+Man players?
+12. carry-look-ahead
+adder
+
+Faster than the 8-bit ripple carry adder , but ultimately
+does exactly the same thing: adds binary numbers.
+
+13. Special symbol
+to wrap up the
+complexity of an
+8-bit ALU?
+
+2/2
+
+Registers and RAM: Crash Course Computer Science #6
+Study online at https://quizlet.com/_5ywd9p
+
+1. RAM
+
+Random Access Memory - temporary
+place to store material that works quickly.
+erased when computer turns off. Volatile.
+
+2. AND OR Latch
+
+It has two inputs, a "set" input, which sets
+the output to a 1, and a "reset" input, which
+resets the output to a 0. If set and reset
+are both 0, the circuit just outputs whatever
+was last put in it. In other words, it remembers a single bit of information! Memory!
+
+3. The action of putting data into writing
+memory is called ___________.
+4. The action of getting the data reading
+out is called ________________.
+5. Gated Latch
+
+can be opened or closed
+
+6. If we put 8 latches side-by-side, a register, which holds a single number,
+we can store 8 bits of inforand the number of bits in a register is
+mation like an 8-bit number. A called its width.
+group of latches operating like
+this is called
+7. 16x16 latch matrix
+
+For 256 bits, we need a 16 by 16 grid of
+latches with 16 rows and columns of wires.
+To activate any one latch, we must turn on
+the corresponding row AND column wire.
+
+8. For 256 bits of memory, we only 35 wires - 1 data wire, 1 write enable
+need
+wire, 1 read enable wire, and 16 rows and
+columns for the selection
+1/3
+
+Registers and RAM: Crash Course Computer Science #6
+Study online at https://quizlet.com/_5ywd9p
+
+9. Multiplexer
+
+A circuit that directs one of several digital
+signals to a single output, depending on
+the states of several select inputs.
+
+10. abstraction
+
+the quality of dealing with ideas rather than
+events
+
+11. uniform bank of addressable
+memory
+
+256 addresses, and at each address, we
+can read or write an 8-bit value
+
+12. To address a gigabyte - or a bil- we need 32-bit addresses.
+lion bytes of memory 13. If we opened up a stick of 1
+8 memory modules soldered onto the
+megabyte RAM you would see is board. If we carefully opened up one of
+these modules and zoomed in, you would
+see are 32 squares of memory. Zoom into
+one of those squares, and we can see
+each one is comprised of 4 smaller blocks.
+If we zoom in again, we get down to the
+matrix of individual bits. This is a matrix
+of 128 by 64 bits. That's 8192 bits in total.
+Each of our 32 squares has 4 matrices,
+so that's 32 thousand, 7 hundred and 68
+bits. And there are 32 squares in total. So
+all in all, that's roughly 1 million bits of
+memory in each chip. Our RAM stick has
+8 of these chips, so in total, this RAM can
+store 8 million bits, otherwise known as 1
+megabyte.
+14. SRAM
+
+static random access memory
+
+15. DRAM
+
+dynamic random access memory
+
+16. NVRAM
+
+Non-Volatile Random Access Memory
+
+17. Flash Memory
+
+Type of nonvolatile memory that can be
+erased electronically and rewritten.
+2/3
+
+Registers and RAM: Crash Course Computer Science #6
+Study online at https://quizlet.com/_5ywd9p
+
+3/3
+
+The Central Processing Unit (CPU): Crash Course Computer Science #7
+Study online at https://quizlet.com/_5ywgnf
+
+1. CPU
+
+Central Processing Unit
+whose job is to execute programs.
+
+2. Programs
+
+are made up of a series of individual operations called instructions, because they instruct the computer what to
+do.
+
+3. micro-architecture
+
+a description of the electrical
+circuitry of a computer, central processing unit, or digital
+signal processor that is sufficient for completely describing the operation of the hardware.
+
+4. Two types of computer memory
+
+Registers and RAM
+
+5. We can assign an
+ID
+______________________ to each instruction supported by our CPU.
+6. operation code
+
+Opcode. First part of machine
+language instruction. Specifies which operation needs to
+be carried out (e.g., addition,
+store)
+
+7. Instruction Address Register
+
+stores the memory address of
+the current instruction
+
+8. Fetch phase
+
+First phase of a CPU's operation where we retrieve our
+first instruction. First, we wire
+our Instruction Address Register to our RAM module. The
+register's value is 0, so the
+RAM returns whatever value
+1/3
+
+The Central Processing Unit (CPU): Crash Course Computer Science #7
+Study online at https://quizlet.com/_5ywgnf
+
+is stored in address 0. Then
+this value is copied into our
+instruction register.
+9. Decode phase
+
+Second phase where we figure out what that instruction is
+so we can execute it.
+
+10. In this case the op-code, which is the first This op-code corresponds to
+four bits, is: 0010.
+the "LOAD A" instruction,
+which loads a value from
+RAM into Register A. The
+RAM address is the last four
+bits of our instruction which
+are 1110, or 14 in decimal.
+11. Control Unit (CU)
+
+Processor component that
+manages the execution of instructions during the fetch-execute cycle.
+
+12. Execute Phase
+
+Last phase where the CU
+completes the instructions.
+
+13. Clock Speed
+
+The speed, or frequency, expressed in MHz, that controls
+activity on the motherboard
+and is generated by a crystal or oscillator located somewhere on the motherboard.
+
+14. The very first, single-chip CPU was the Intel 740 Kilohertz -- that's 740
+4004, a 4-bit CPU released in 1971 had a
+thousand cycles per second.
+mind-blowing clock speed of
+15. overclocking a computer
+
+when you modify the clock to
+speed up the tempo of the
+CPU
+
+16.
+2/3
+
+The Central Processing Unit (CPU): Crash Course Computer Science #7
+Study online at https://quizlet.com/_5ywgnf
+
+Chip makers often design CPUs with
+enough tolerance to handle a little bit of
+overclocking, but too much
+
+can either overheat the CPU
+or produce gobbledygook as
+the signals fall behind the
+clock
+
+17. underclocking
+
+Making your CPU run slower
+so you can save a lot of power, which is important for computers that run on batteries
+
+18. dynamic frequency scaling
+
+processors can increase or
+decrease their clock speed
+based on demand
+
+3/3
+
+Instructions & Programs: Crash Course Computer Science #8
+Study online at https://quizlet.com/_5z1dh9
+
+1. To make a basic, but functional
+ALU, control unit, some memory, and a
+Central Processing Unit - or CPU - clock
+you need:
+2. software
+
+(computer science) written programs
+or procedures or rules and associated
+documentation pertaining to the operation of a computer system and that are
+stored in read/write memory
+
+3. hardware
+
+The machines, wiring, and other physical components of a computer or other
+electronic system
+
+4. JUMP
+
+This causes the program to "jump" to a
+new location. This is useful if we want
+to change the order of instructions, or
+choose to skip some instructions.
+
+5. JUMP_NEGATIVE
+
+only jumps the program if the ALU's
+negative flag is set to true
+
+6. HALT
+
+tells the computer when to stop processing
+
+7. STORE
+
+saves data into memory location
+
+8. Infinite loops
+
+keep repeating until the program is interrupted
+
+9. conditional jumps
+
+JUMP IF EQUAL and JUMP IF
+GREATER.
+
+10. Software can do something our
+to divide two numbers, instead it's the
+hardware could not. The ALU didn't program we made that gave us that
+have the functionality
+functionality.
+11. Immediate Value
+
+When the CPU sees an instruction that
+needs something like a JUMP instruction, it knows it must also fetch the ad1/2
+
+Instructions & Programs: Crash Course Computer Science #8
+Study online at https://quizlet.com/_5z1dh9
+
+dress to jump to, which is saved immediately behind the JUMP instruction in
+memory.
+12. A modern computer processor, like has thousands of different instructions
+an Intel Core i7,
+and instruction variants, ranging from
+one to fifteen bytes long.
+13. 1971, Intel released the 4004
+processor that supported
+
+46 instructions, shown here. Which was
+enough to build an entire working computer.
+
+2/2
+
+Advanced CPU Designs: Crash Course Computer Science #9
+Study online at https://quizlet.com/_5z1gbs
+
+1. Gigahertz speeds
+
+billions of instructions executed
+every second
+
+2. Modern computer processors now have
+special circuits for things like
+
+graphics operations, decoding
+compressed video, and encrypting files - all of which
+are operations that would take
+many many many clock cycles
+to perform with standard operations.
+
+3. bus
+
+data has to be transmitted to
+and from RAM along sets of
+data wires
+
+4. cache
+
+a little piece of RAM right on the
+CPU
+
+5. cache dirty bit
+
+a special flag for each block of
+memory it stores
+
+6. When the cache is full, but a new block of it checks its dirty bit, and if
+memory is being requested by the proces- it's dirty, the old block of data
+sor. Before the cache erases the old block is written back to RAM before
+to free up space,
+loading in the new block.
+7. Instruction pipelining is a processing
+technique
+
+that allows the processor to
+operate on multiple stages of
+instruction at a time with the
+pipeline keeping the instructions in order.
+
+8. parallelize
+
+While one instruction is getting executed, the next instruction could be getting decoded, and the instruction beyond
+that fetched from memory. All of
+these separate processes can
+overlap so that all parts of the
+1/3
+
+Advanced CPU Designs: Crash Course Computer Science #9
+Study online at https://quizlet.com/_5z1gbs
+
+CPU are active at any given
+time.
+9. Pipelined processors have to look ahead data dependencies
+for
+10. out-of-order execution
+
+dynamically reorder instructions with dependencies in order to minimize stalls and keep
+the pipeline moving
+
+11. A simple pipelined processor will perform long stall
+a ______________ when it sees a jump
+instruction, waiting for the value to be finalized.
+12. speculative execution
+
+the ability of some CPU's to execute instructions ahead of the
+current location and beyond a
+conditional branch. The results
+of these
+instructions will be usable only
+if the CPU guessed the branch
+direction correctly.
+
+13. branch prediction
+
+An approach to dealing
+with conditional BRANCHes
+in which the CPU guesses
+whether a branch condition will
+be true or false based on past
+experience; a form of parallel
+processing.
+
+14. multi-core processors
+
+Contains two or more which
+two or more processors have
+been attached for enhanced
+performance, reduced power
+consumption, and more efficient simultaneous processing
+of multiple tasks.
+2/3
+
+Advanced CPU Designs: Crash Course Computer Science #9
+Study online at https://quizlet.com/_5z1gbs
+
+15. When this video was made, the world's
+fastest computer was
+
+located in The National Supercomputing Center in Wuxi,
+China. The Sunway TaihuLight contains a brain-melting
+40,960 CPUs, each with 256
+cores
+
+16. FLOPS
+
+The number of floating point
+operations per second that a
+computational device can perform. A typical measure of the
+power of a device to perform
+calculations.
+
+17. The Sunway TaihuLight can process
+
+93 Quadrillion -- that's 93 million-billions -- floating point
+math operations per second
+
+18. Crysis
+
+a first-person shooter video
+game series developed by German developer Crytek and published by Electronic Arts
+
+3/3
+
+Early Programming: Crash Course Computer Science #10
+Study online at https://quizlet.com/_5z1jmr
+
+1. Many consider
+programming.
+Jacquard's loom to be
+one of the earliest
+forms of
+2. plugboards
+
+A control panel full of little sockets, into which a
+programmer would plug cables to pass values and
+signals between different parts of the machine.
+
+3. Von Neumann Architecture
+
+Traditional computer architecture that forms the basis
+of most digital computer systems. A single control
+unit manages program control flow following a linear
+sequence of fetch-decode-execute
+
+4. 62,500 punch cards
+
+equivalent to roughly 5mb of data
+
+5. Panel programming
+
+used huge panels full of switches and buttons, and
+there were indicator lights to display the status of
+various functions of values and memories
+
+6. The first commercially preassembled and as a kit.
+successful home computer was the ALTAIR
+8800 were sold in two
+versions:
+7. To program the 8800, toggle the switches on the front panel to enter the
+you'd literally
+binary opcodes and instructions you wanted. Then,
+you'd press the deposit button to write that value into
+memory. Then, in the next location in memory, you'd
+toggle the switches again for your next instruction,
+deposit it, and so on.
+
+1/1
+
+The First Programming Languages: Crash Course Computer Science #11
+Study online at https://quizlet.com/_5z53r5
+
+1. Programming at what you might call a "softer" medium.
+the hardware level is cumbersome and inflexible, so programmers wanted a more versatile way to program computers
+2. Machine Language
+
+The language made up of binary-coded instructions that
+is used directly by the computer
+
+3. Pseudo-Code
+
+a notation resembling a simplified programming language,
+used in program design.
+
+4. mnemonics
+
+memory aids, especially those techniques that use vivid
+imagery and organizational devices
+
+5. Assembler
+
+A program that translates a symbolic version of instructions into the binary version.
+
+6. Dr. Grace Hopper Mathematician who worked on developing software for
+computers; developed the Compiler; and created FORTRAN; coined the phrase "debug"
+7. They "patched" putting patches of paper over the holes on the punch tape.
+some bugs in
+this program by
+literally
+8. A-0
+
+high-level programming language called "Arithmetic Language Version 0"
+
+9. Compiler
+
+A computer program created to read an entire program
+and convert it into a lower-level language and ultimately
+to assembly language used by the processor.
+
+10. Python
+1/6
+
+The First Programming Languages: Crash Course Computer Science #11
+Study online at https://quizlet.com/_5z53r5
+
+an interpreted, high-level, general-purpose programming
+language. Created by Guido van Rossum and first released in 1991
+
+11. variables
+
+abstractions for needed memory locations
+
+12. FORTRAN
+
+One of the original high level languages, short for Formula
+Translation, created by John Backus to make programming easier for math and science applications.
+
+13. John Backus,
+"Much of my work has come from being lazy."
+the FORTRAN
+project director,
+said:
+14. Programs
+20 times shorter
+written in
+FORTRAN were
+__________________ than equivalent handwritten assembly code
+15. Committee on
+Data Systems
+Languages
+
+a consortium formed in 1959 to guide the development of
+a standard programming language that could be used on
+many computers
+
+16. COBOL
+
+An acronym for common business-oriented language, a
+compiled English-like computer programming language
+designed for business use
+2/6
+
+The First Programming Languages: Crash Course Computer Science #11
+Study online at https://quizlet.com/_5z53r5
+
+17. This notion is
+run anywhere
+called write once,
+18. ALGOL
+
+ALGOrithmic Language released in 1960
+- Provided a standard notation for computer scientists to
+publish algorithms in journals
+- Included structured control statements for sequencing
+(begin-end) blocks, loops (for loop), and selection (if and
+if-else statements)
+- Supported different numeric types
+- Introduced the array structure
+- Supported procedures, including recursive procedures
+
+19. LISP
+
+a family of computer programming languages with a long
+history and a distinctive, fully parenthesized prefix notation. Originally specified in 1958, it is the second-oldest
+high-level programming language in widespread use today
+
+20. BASIC
+
+an acronym for Beginner's All-purpose Symbolic Instruction Code) is a family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of use.
+
+21. Pascal
+
+an imperative and procedural programming language,
+which Niklaus Wirth designed in 1968-69 and published in
+1970, as a small, efficient language intended to encourage
+good programming practices using structured programming and data structuring. It is named in honor of the
+French mathematician, philosopher and physicist Blaise
+Pascal.
+3/6
+
+The First Programming Languages: Crash Course Computer Science #11
+Study online at https://quizlet.com/_5z53r5
+
+22. PERL
+
+a family of two high-level, general-purpose, interpreted,
+dynamic programming languages, Perl 5 and Perl 6.
+Though Perl is not officially an acronym, there are various
+backronyms in use, including "Practical Extraction and
+Reporting Language"
+
+23. C++
+
+a statically-typed, free-form, (usually) compiled, multi-paradigm, intermediate-level general-purpose middle-level
+programming language." In simple terms, C++ is a sophisticated, efficient and a general-purpose programming language based on C. It was developed by Bjarne Stroustrup
+in 1979.
+
+24. ruby
+
+a dynamic, interpreted, reflective, object-oriented, general-purpose programming language. It was designed and
+developed in the mid-1990s by Yukihiro "Matz" Matsumoto
+in Japan.
+
+25. Java
+
+An object-oriented programming language designed
+specifically for programs (particularly multimedia) to be
+4/6
+
+The First Programming Languages: Crash Course Computer Science #11
+Study online at https://quizlet.com/_5z53r5
+
+used over the Internet. Java allows programmers to create
+small programs or applications to enhance websites.
+
+26. C#
+
+a general-purpose, multi-paradigm programming language encompassing strong typing, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines. It was developed
+around 2000 by Microsoft within its .NET initiative and later
+approved as a standard by Ecma and ISO.
+
+27. Go
+
+a statically typed, compiled programming language designed at Google by Robert Griesemer, Rob Pike, and
+Ken Thompson. Go is syntactically similar to C, but with
+the added benefits of memory safety, garbage collection,
+structural typing, and CSP-style concurrency.
+
+28. Swift
+
+a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, macOS,
+watchOS, tvOS, Linux and z/OS. Swift is designed to work
+with Apple's Cocoa and Cocoa Touch frameworks and the
+large body of existing Objective-C code written for Apple
+products.
+
+5/6
+
+The First Programming Languages: Crash Course Computer Science #11
+Study online at https://quizlet.com/_5z53r5
+
+29. It's extremely likely that
+the web browser you're using
+right now was
+written in
+
+C++ or Objective-C.
+
+30. Many consider
+"plain ol' English", where you can literally just speak what
+the holy grail of you want the computer to do, it figures it out, and executes
+programming to it.
+be the use of
+
+6/6
+
+Programming Basics: Statements & Functions: Crash Course Computer
+Science #12
+Study online at https://quizlet.com/_5z6381
+
+1. syntax
+
+The set of rules that govern the structure
+and composition of statements in a language.
+
+2. assignment statement
+
+an instruction that assigns a value to something, such as to the property of an object
+
+3. A program, which is a list of
+instructions, is a bit like a
+____________
+
+recipe
+
+4. initialize our variables
+
+set their initial value
+
+5. Control Flow Statements
+
+Decision making structures have one or
+more conditions to be evaluated or tested by
+the program.
+
+6. If
+
+A statement consists of a boolean expression followed by one or more statements.
+
+7. If Else
+
+An _____ statement can be followed by an
+optional ________ statement, which executes when the boolean expression is false.
+
+8. Nested If
+
+You can use one if or else if statement inside
+another if or else if statement(s).
+
+9. Switch
+
+A _____________ statement allows a variable to be tested for equality against a list of
+values.
+
+10. Conditional Statements
+
+Operations that ask a question and select
+the next instruction to carry out based on the
+answer to that question.
+
+11. While Loop
+
+a programming construct used to repeat a
+set of commands (loop) as long as (while) a
+boolean condition is true
+
+1/2
+
+Programming Basics: Statements & Functions: Crash Course Computer
+Science #12
+Study online at https://quizlet.com/_5z6381
+
+12. For Loop
+
+A particular kind of looping construct provided in many languages. Typically, a for loop
+defines a counting variable that is checked
+and incremented on each iteration in order
+to loop a specific number of times.
+
+13. subroutines
+
+in problem solving, specific procedures for
+solving familiar, well-defined problems
+
+14. functions
+
+programming languages can package
+pieces of code
+
+15. RETURN statement
+
+A statement of the form return <expression>
+It is placed at the end of a fruitful function to
+return a value
+
+16. Libraries
+
+huge bundles of pre-written functions
+
+2/2
+
+Intro to Algorithms: Crash Course Computer Science #13
+Study online at https://quizlet.com/_5z69cr
+
+1. algorithm
+
+a methodical, logical rule or procedure that guarantees solving a particular problem. .
+
+2. Some algorithms are the fewer steps it takes to compute or how much
+better than others
+memory it uses.
+even if they produce
+equal results. Determiners can be
+3. Computer Science
+
+the study of the principles and use of computers.
+
+4. array
+
+a series of items
+
+5. Selection Sort
+
+A sort algorithm that repeatedly scans for the smallest
+item in the list and swaps it with the element at the
+current index. The index is then incremented, and
+the process repeats until the last two elements are
+sorted.
+
+6. Big O Notation
+
+a notation that expresses computing time (complexity) as the term in a function that increases most
+rapidly relative to the size of a problem
+
+7. Merge Sort
+
+A list is split into individual lists, these are then combined (2 lists at a time).
+
+8. Graph Search
+
+away of mapping all of the data we give the platform
+together in a really useful way; best example of 'Social
+Search' - the premise of creating a search engine
+based not on websites but on entities - people, places
+and things
+
+9. Dijkstra's algorithm
+
+an optimal greedy algorithm to find the minimum distance and shortest path in a weighted graph from a
+give start node.
+
+10. Bubble Sort
+
+Moving through a list repeatedly, swapping elements
+that are in the wrong order.
+
+11. Spaghetti Sort
+1/2
+
+Intro to Algorithms: Crash Course Computer Science #13
+Study online at https://quizlet.com/_5z69cr
+
+a linear-time, analog algorithm for sorting a sequence
+of items, introduced by Alexander Dewdney. It sorts a
+sequence of items requiring O stack space in a stable
+manner. It requires a parallel processor.
+
+2/2
+
+Data Structures: Crash Course Computer Science #14
+Study online at https://quizlet.com/_606vip
+
+1. Data Structures
+
+Variables that store data for direct or
+indirect processing used in computer programs.
+
+2. Arrays
+
+a collection of items stored in a contiguous memory location and addressed using one or more indices
+
+3. strings
+
+arrays of characters, like letters,
+numbers, punctuation and other
+written symbols
+
+4. null character
+
+denotes the end of the string in
+memory
+
+5. string concatenation function, or
+"string cat,"
+
+takes in two strings, and copies the
+second one to the end of the first
+
+6. matrix
+
+an array of arrays
+
+7. a=j[2][1]
+
+tells the computer you're looking for
+the item in subarray 2 at position 1
+
+8. a=j[2][0][18][13][3]
+
+5th dimensional matrix
+
+9. struct
+
+Groups of variables bundled together
+
+10. node
+
+stores a variable, like a number, and
+also a pointer
+
+11. pointer
+
+a special variable that points to a
+location in memory
+
+12. linked list
+
+a flexible data structure that can
+store many nodes; can be re-ordered, trimmed, split, reversed
+
+13. queue
+
+goes in order of arrival
+1/2
+
+Data Structures: Crash Course Computer Science #14
+Study online at https://quizlet.com/_606vip
+
+14. stack
+
+goes in order of last data pushed in
+
+15. FIFO
+
+First-In First-Out
+
+16. Last-In First-Out
+
+LIFO
+
+17. Enqueue
+
+operation adds an item to a queue
+
+18. Dequeue
+
+operation removes an item from the
+queue
+
+19. Pushing and Popping
+
+official terms used to describe
+adding and completing tasks in a
+stack
+
+20. binary tree
+
+a tree in which each node has at
+most two children
+
+21. The top most node is called the
+root
+_____________. And any nodes that
+hang from other nodes are called children nodes.
+22. The top most node is called the root. children
+And any nodes that hang from other
+nodes are called __________ nodes.
+23. Nodes above children are called
+___________ nodes.
+
+parent
+
+24. Leaf Nodes
+
+any nodes that have no children
+
+25. important property of trees
+
+there's a one-way path from roots to
+leaves
+
+26. Tree
+
+node struct that contains two pointers
+
+2/2
+
+Alan Turing: Crash Course Computer Science #15
+Study online at https://quizlet.com/_6t7u25
+
+1. Alan Turing
+
+English mathematician who conceived of the Turing machine and broke German codes during World War II
+(1912-1954)
+
+2. Entscheidungs
+Problem or
+Decision
+Problem
+
+This problem asks for an algorithm that takes as input a
+statement of a first order logic and answers "Yes" or "No"
+according to whether the statement is universally valid?
+
+3. Alonzo Church
+
+developed a system of mathematical expressions called
+Lambda Calculus
+
+4. Turing Machine
+
+theoretical computing device equipped with an infinitely
+long memory tape which stores symbols, and a device
+called a read-write head which can read and write or
+modify symbols on that tape
+
+5. state variable
+
+can hold a piece of information about the current state of
+the machine, and a set of rules that describes what the
+machine does given a state and the current symbol the
+head is reading.
+
+6. The rule can be to write a symbol on the tape, change the state of the machine, move the read-write head to the left or right by one
+spot, or any combination of these actions
+7. Turing showed perform any computation if given enough time and memthat this simple, ory.
+hypothetical machine can
+8. Turing Complete is a term used in computability theory to describe abstract
+machines, usually called automata. If it can be used to
+emulate a Turing machine. It is also called computationally
+universal.
+9. Halting Problem "Is there an algorithm that can determine given a description of a Turing Machine and the input from its tape,
+whether the machine will run forever or halt?"
+1/3
+
+Alan Turing: Crash Course Computer Science #15
+Study online at https://quizlet.com/_6t7u25
+
+10. How did Turing If H says the program halts, then we'll make our new
+reasoned that the machine loop forever. If the answer is no, it doesn't halt,
+Halting Problem we'll have the new machine output a "no" and halt. In
+is unsolvable?
+essence, we're building a machine that does the opposite
+of what H says. Halt if the program doesn't halt, and run
+forever if the program halts.
+11. UK's Government Code and
+Cypher School
+
+British code-breaking group based out of Bletchley Park
+
+12. Enigma Machine German secret code machine
+13. encryption
+
+Process of converting readable data into unreadable characters to prevent unauthorized access.
+
+14. The Enigma Ma- a series of reorderable rotors on the top of the , each
+chine behavior with 26 possible rotational positions. There was also a
+was defined by plug-board at the front of the machine that allowed pairs
+of letters to be swapped. In total, there were billions of
+possible settings.
+15. The Bombe
+
+an electro-mechanical device used by British cryptologists
+to help decipher German Enigma-machine-encrypted secret messages during World War II
+
+16. Turing's most fa- artificial intelligence
+mous post-war
+contribution was
+to
+17. Turing Test
+
+One method of determining the strength of artificial intelligence, in which a human tries to decide if the intelligence
+at the other end of a text chat is human.
+
+18. Turing Award
+
+The most prestigious technical award given by the Association for Computing Machinery; it is for 'contributions of
+lasting and major technical important to the computer field'
+
+19.
+2/3
+
+Alan Turing: Crash Course Computer Science #15
+Study online at https://quizlet.com/_6t7u25
+
+In 1952 burglary Turing was gay in a time when homosexuality was illegal
+at his home re- in the United Kingdom.
+vealed
+20. While on probut it altered his mood and personality. Although the exact
+bation with hor- circumstances will never be known, it's most widely-acmonal treatment cepted that Alan Turing took his own life by poison in 1954.
+to suppress his
+sexuality,
+
+3/3
+
+Software Engineering: Crash Course Computer Science #16
+Study online at https://quizlet.com/_60biet
+
+1. Microsoft Office has roughly
+
+40 million lines of code
+
+2. Software Engineering
+
+a disciplined approach for constructing
+information systems through the use of
+common methods, techniques, or tools
+
+3. Margaret Hamilton
+
+Software engineer who helped NASA
+prevent serious problems on the Apollo
+11 mission to the moon.
+
+4. Margaret Hamilton is quoted as
+saying "It's kind of like a root
+canal:
+
+you waited till the end, there are things
+you could have done beforehand. It's like
+preventative healthcare, but it's preventative software."
+
+5. Breaking big programs into
+smaller functions allows
+
+many people to work simultaneously.
+
+6. The solution is to package func- "objects." Then the "parent" object that
+tions into hierarchies, pulling re- contains all of the "children" objects.
+lated code together into
+7. Object Oriented Programming
+
+is the idea of packing up functional units
+into nested objects
+
+8. Application Programming Interface (API)
+
+A set of software routines that allows one
+software system to work with another.
+
+9. If a function is marked as "private",
+
+it means only functions inside that object
+can call it.
+
+10. If a function is marked as "public",
+
+other objects can call it.
+1/3
+
+Software Engineering: Crash Course Computer Science #16
+Study online at https://quizlet.com/_60biet
+
+11. Integrated Development Environ- Provides a developer with a way to crement (IDE)
+ate a program, run the program, and debug the program all within one application.
+12. VIM
+
+is a clone, with additions, of Bill Joy's vi
+text editor program for Unix. It was written
+by Bram Moolenaar based on source for
+a port of the Stevie editor to the Amiga
+and first released publicly in 1991
+
+13. Don't be the person who
+
+parachutes a load of uncommented and
+undocumented code into someone's lap,
+so they literally have to go line by line to
+understand what the code is doing
+
+14. Good documentation helps pro- revisit code they haven't seen for awhile,
+grammers when they
+but it's also crucial for programmers who
+are totally new to it.
+15. "read-me's"
+
+standalone files which tell other programmers to read that help file before
+diving in.
+
+16. Comments
+
+are specially-marked statements that the
+program knows to ignore when the code
+is compiled. They exist only to help programmers figure out what's what in the
+source code.
+
+17. Source Control, aka version con- A component of software configuration
+trol or revision control
+management that in charge of the management of changes to documents, computer programs, large web sites, and other collections of information.
+18. code repository
+
+Software development is a collaborative
+effort and large software projects require
+teams of developers who may simulta2/3
+
+Software Engineering: Crash Course Computer Science #16
+Study online at https://quizlet.com/_60biet
+
+neously work on different parts of the
+code. Act as a central storage point for
+developers to place their source code.
+19. committing code
+
+adds the latest changes to part of the
+source code to the repository, making
+these changes part of the head revision
+
+20. While a piece of code is checked other programmers leave it alone.
+out, and presumably getting updated or modified,
+21. The master version of the code, if a bug is found, the whole code, or just
+stored on the server, should al- a piece, can be rolled back to an earlier,
+ways compile without errors and stable version. It also keeps track of who
+run with minimal bugs. But some- made each change, so coworkers can
+times bugs do creep in. Fortusend nasty, I mean, helpful and encournately, source control software aging emails to the offending person.
+keeps track of all changes, and
+22. Quality Assurance (QA)
+
+a team rigorously tests out a piece of
+software, attempting to create unforeseen conditions that might trip it up
+
+23. Beta Software
+
+An early version of a software program
+that is often provided free to users to test
+for bugs before the program is sold to
+consumers.
+
+24. Alpha Version
+
+Is still rough and buggy, so it's only tested
+internally.
+
+3/3
+
+Integrated Circuits & Moore's Law: Crash Course Computer Science #17
+Study online at https://quizlet.com/_60bo3b
+
+1. discrete compo- Individual electronic parts such as resistors, diodes, canents
+pacitors, and transistors.
+2. vacuum tubes
+
+They were electronic devices that controlled the flow of
+electricity in and out of a computer. They looked like long
+light bulbs.
+
+3. Resistors
+
+Devices that apply resistance to a circuit to manage current
+
+4. capacitors
+
+have the ability to store and discharge electrical potential
+energy
+
+5. diodes
+
+a device that allows the flow of electrical current in only
+one direction
+
+6. soldered
+
+To join (metal pieces) with a melted metal compound
+
+7. Tyranny of Num- A problem faced in the 1960s by engineers who were
+bers
+unable to increase the performance of their designs due
+to the huge number of components involved.
+8. transistors
+
+invented by Bell Laboratories in 1947, these tiny pieces of
+technology, which receive and amplify radio signals, make
+portable radios possible
+
+9. Integrated Circuits
+
+chips that contain large numbers of tiny transistors fabricated into a semiconducting material called silicon
+
+10. Germanium (Ge) a lustrous, hard, grayish-white metalloid in the carbon
+group with atomic number 32
+11. PCB
+
+Printed Circuit Board are mass manufactured boards that
+have all the metal wires etched right into them to connect
+components together.
+
+12. Photolithography
+
+a process to transfer patterns and make layered materials,
+like a semiconductor, using photosensitive substances &
+selective light exposure
+1/3
+
+Integrated Circuits & Moore's Law: Crash Course Computer Science #17
+Study online at https://quizlet.com/_60bo3b
+
+13. semiconductor
+
+A substance that can conduct electricity under some conditions
+
+14. Silicon
+
+atomic number 14, a hard and brittle crystalline solid with
+a blue-grey metallic lustre; and it is a tetravalent metalloid
+and semiconductor
+
+15. oxide layer
+
+layer of an oxygen compound
+
+16. photoresist
+
+a material used in a silicon chip fabrication process that is
+chemically changed by light, allowing it to be patterned by
+a mask
+
+17. photomask
+
+an opaque plate with holes or transparencies that allow
+light to shine through in a defined pattern
+
+18. doping
+
+Process of adding impurities to a semiconductor to increase its conductivity.
+
+19. Timing is
+
+super important in photolithography in order to control
+things like doping diffusion and etch depth.
+
+20. metalization
+
+process produces a thin-film metal layer that will serve as
+the required conductor pattern for the interconnection of
+the various components on the chip
+
+21. Bipolar Junction A transistor type having two PN junctions, configured as
+Transistor (BJT) NPN or PNP. May be used as an amplifier or switch.
+22. Moore's Law
+
+The observation that the number of transistors in a dense
+integrated circuit doubles about every two years.
+
+23. 1968, Robert
+Noyce and Gordon Moore
+teamed up and
+founded a new
+company,
+
+combining the words Integrated and Electronics... Intel...
+the largest chip maker today.
+
+24.
+2/3
+
+Integrated Circuits & Moore's Law: Crash Course Computer Science #17
+Study online at https://quizlet.com/_60bo3b
+
+very-large-scale used to automatically generate chip designs using techintegration, or
+niques like logic synthesis, where whole, high-level comVLSI software
+ponents can be laid down, like a memory cache, the
+software generates the circuit in the most efficient way
+possible.
+25. Two significant We're bumping into limits on how fine we can make feaissues holding
+tures on a photomask and it's resultant wafer due to the
+us back from fur- wavelengths of light used in photolithography.
+ther miniaturiza- When transistors get really really small, where electrodes
+tion
+might be separated by only a few dozen atoms, electrons
+can jump the gap, a phenomenon called quantum tunneling.
+
+3/3
+
+Operating Systems: Crash Course Computer Science #18
+Study online at https://quizlet.com/_60bthp
+
+1. Operating System (OS)
+
+System software that provides an
+interface between the user or application program and the computer hardware.
+
+2. batch processing
+
+Instead of the manual task of loading programs by hand the computers could be given batches. When
+the computer was done with one,
+it would automatically and near-instantly start the next.
+
+3. peripherals
+
+An input device, output device, or
+secondary storage device that is
+not part of the central processing
+unit (CPU)
+
+4. device driver
+
+A software program that provides
+the instructions your computer
+needs to communicate with a device, such as a scanner.
+
+5. I/O
+
+input and output
+
+6. Atlas Supervisor
+
+The program which managed the
+allocation of processing resources
+of Manchester University's Super
+Computer so that the machine was
+able to act on many tasks and user
+programs concurrently.
+
+7. The challenge of having many promemory, and we can't lose that
+grams running simultaneously on a
+program's data when we switch to
+single computer is that each one is go- another program. The solution is
+ing to need some
+to allocate each program its own
+block of memory.
+8. Virtual Memory
+
+Space on a hard disk or other storage device that simulates random
+access memory.
+1/2
+
+Operating Systems: Crash Course Computer Science #18
+Study online at https://quizlet.com/_60bthp
+
+9. dynamic memory allocation
+
+Allocates memory during runtime.
+
+10. Memory Protection
+
+Prevents one process from affecting the confidentiality, integrity, or
+availability of another.
+
+11. Time-sharing
+
+Each individual user was only allowed to utilize a small fraction of
+the computer's processor, memory, and so on.
+
+12. Unix
+
+An operating system originally
+conceived in 1969 by Ken Thompson and Dennis Ritchie of AT&T's
+Bell Labs.
+
+13. kernel
+
+Unix operating system core functionality of the OS, things like
+memory management, multitasking, and dealing with I/O
+
+14. kernel panic
+
+A Linux or OS X error from which
+it cannot recover, similar to a blue
+screen of death in Windows.
+
+15. Microsoft's Disk Operating System, or Was just 160 kilobytes, allowing it
+MS-DOS
+to fit, as the name suggests, onto
+a single disk. Though it lacked multitasking and protected memory.
+16. blue screen of death
+
+An error condition in which a PC
+"freezes" and displays a black
+screen (blue screen prior to Windows Vista); usually turning the
+computer off and turning it on
+again clears the error
+
+2/2
+
+Memory & Storage: Crash Course Computer Science #19
+Study online at https://quizlet.com/_60bwe2
+
+1. volatile memory Storage that is wiped clean when power is cut off from a
+device
+2. storage
+
+the process of maintaining information in memory over
+time
+
+3. Largest program stored on 62,500 punch cards.
+ever punched
+onto cards was
+
+4. Delay Line Mem- A tube and filled with mercury. At one end put a speaker at
+ory
+the other end a microphone. When you pulse the speaker,
+it creates a pressure wave. This takes time to propagate
+to the other end of the tube, where it hits the microphone,
+converting it back into an electrical signal. And we can use
+this propagation delay to store data.
+
+5. sequential or
+cyclic-access
+memory
+
+You could only read one bit of data from a tube at any given
+instant and if you wanted to access a specific bit, like bit
+112, you'd have to wait for it to come around in the loop.
+
+6. magnetostrictive an electromagnet twisted a long wire one way or the other
+delay lines
+to represent ones or zeros
+
+7. magnetic core
+memory
+
+Memory that stores binary data (0 or 1) in the orientation of
+magnetic charges in ferrite cores about one-sixeenth-inch
+in diameter.
+1/4
+
+Memory & Storage: Crash Course Computer Science #19
+Study online at https://quizlet.com/_60bwe2
+
+8. Magnetic tape
+
+a medium for magnetic recording, made of a thin, magnetizable coating on a long, narrow strip of plastic film
+
+9. Magnetic Drum
+Memory
+
+a metal cylinder coated in a magnetic material for recording data. The drum was rotated continuously, and positioned along its length were dozens of read and write
+heads. These would wait for the right spot to rotate underneath them to read or write a bit of data.
+
+10. hard disk drive
+(HDD)
+
+A direct access storage device used to store and retrieve
+data from rapidly rotating disks coated with magnetic material.
+
+2/4
+
+Memory & Storage: Crash Course Computer Science #19
+Study online at https://quizlet.com/_60bwe2
+
+11. floppy disk drive a drive that can hold either a 5½ inch or 3¼ inch floppy
+(FDD)
+disk
+
+12. floppy disk
+
+A reusable magnetic storage medium that uses a thin
+Mylar circular disk as the storage surface.
+
+13. Zip Disks
+
+Look like floppy disks, but less floppy and holds up to 170
+times more data.
+
+14. laser disc
+
+12 inch optical storage device that writes little physical
+divots in their surface that cause light to be reflected
+differently, which is captured by an optical sensor, and
+decoded into 1's and 0's.
+
+15. USB stick
+
+A device you can use for saving files from your computer,
+or moving files between different computers. Sometimes
+called a flash drive or thumb drive.
+3/4
+
+Memory & Storage: Crash Course Computer Science #19
+Study online at https://quizlet.com/_60bwe2
+
+16. Solid State Drive a solid-state storage device that uses integrated circuit
+(SSD)
+assemblies as memory to store data persistently
+
+17. Stick of Gum dri- Introduced in 1998 with 4MB and 8MB capacities, the
+ve
+original 2" modules looked like a short stick of chewing
+gum. Somehow left out of the crash course video but
+forever in the memories of the creator because she had
+to make a friend return a stupidly expensive one and pay
+his rent instead.
+
+4/4
+
+Files & File Systems: Crash Course Computer Science #20
+Study online at https://quizlet.com/_6t7u4m
+
+1. file format
+
+Indicates the manner in which the data a file contains
+are stored on the disk.
+
+2. jpeg
+
+Most common graphic file format, full color graphic format (16.7 million colors) with a relatively small file size
+
+3. .txt
+
+a computer format that is structured as a sequence of
+lines of electronic text
+
+4. mp3
+
+A standard format for music files sent over the Internet
+that compresses music.
+
+5. WAV
+
+(Waveform Audio File Format) an audio coding format standard for storing an audio bitstream of uncompressed audio data.
+
+6. metadata
+
+data about data
+
+7. Metadata is stored header
+at the front of the
+file, ahead of any
+actual data, in a
+8. bmp
+
+is a raster graphics image file format used to store digital
+images.
+
+9. pic
+
+the native file format for Pictor Paint and Graphics
+Animation System for Professionals (GRASP) (also by
+Bridges) and became the first widely accepted DOS
+imaging standard
+
+10. pixel
+
+Short for "picture element" it is the fundamental unit
+of a digital image, typically a tiny square or dot which
+contains a single point of color of a larger image.
+
+11. rgb (255,255,0)
+
+yellow
+
+12. rgb (0,0,0)
+
+black
+
+13. rgb (255,255,255)
+
+white
+1/2
+
+Files & File Systems: Crash Course Computer Science #20
+Study online at https://quizlet.com/_6t7u4m
+
+14. zip
+
+a file extension denoting a compressed file, used to
+save space when sending as attachments
+
+15. ppt
+
+a file extension for a presentation file format used by
+Microsoft PowerPoint
+
+16. Directory File
+
+listing of the files stored in memory with their metadata
+about these files, like when they were created and last
+modified, who the owner is, and if it can be read, written
+or both.
+
+17. Flat File System
+
+Early information technology systems used this system
+that is characterized by independent programs and data
+sets, high degrees of data redundancy, and difficulty in
+achieving cross functional reporting.
+
+18. Slack Space
+
+the space left over from the end of the file to the end of
+the cluster
+
+19. Forensic teams can didn't actually erase the file's data in storage, it just
+"recover" data from deleted the record of it. At some point, that block will
+computers that has be overwritten with new data, but until then, it just sits
+been deleted bethere.
+cause it
+20. fragmentation
+
+Files getting broken up across storage
+
+21. defrag
+
+The Windows command that examines a magnetic hard
+drive for fragmented files and rewrites these files to the
+drive in contiguous clusters.
+
+22. Hierarchical File
+System (HFS)
+
+The system that store files, consisting of directories and
+subdirectories that can be nested.
+
+23. Root Directory
+
+The top level of the filing structure in a computer system.
+In Windows computers, the root directory of the hard
+drive is represented as C:\.
+
+2/2
+
+Compression: Crash Course Computer Science #21
+Study online at https://quizlet.com/_60c5p5
+
+1. Run Length Encoding (RLE)
+
+A compression algorithm that represents an image in
+terms of the length of runs of identical pixels
+
+2. Lossless Compression
+
+a data compression algorithm that allows the original data
+to be perfectly reconstructed from the compressed data
+
+3. DFTBA
+
+Don't forget to be awesome
+
+4. Huffman tree
+
+A tree having the nodes representing symbols as the
+leaves, with more frequent symbols having nodes progressively closer to the root. The most frequent symbols are the
+closest to the root node. Note that internal nodes cannot
+represent symbols.
+The edges connecting children to parents are either 0 or
+1. Convention must be established (e.g., left children have
+0s, right children have 1s).
+The code for a symbol is built from 0s and 1s along the
+path from the root down to the desired symbol.
+Codes must be prefix free.
+abc:7
+/\
+ab:3 c:4
+/\
+a:1 b:2
+
+5. code dictionary
+
+The definition of a code is a set of rules or a system of
+communication, often with randomly assigned numbers
+and letters given specific meanings.
+
+6. Lossy Compres- (or irreversible compression) a data compression method
+sion
+that uses inexact approximations, discarding some data
+to represent the content. Most commonly seen in image
+formats like .jpg.
+7.
+1/2
+
+Compression: Crash Course Computer Science #21
+Study online at https://quizlet.com/_60c5p5
+
+Perceptual Cod- Uses analysis of auditory masking to prioritize elements of
+ing
+a sound as our ears do; saves data by selectively lowering
+the quality of less-important elements.
+8. psychophysics
+
+the study of relationships between the physical characteristics of stimuli, such as their intensity, and our psychological experience of them
+
+9. temporal redun- Redundancy that reflects repetition from one image to the
+dancy
+next. Video compression techniques exploit different types
+of redundancy in video.
+10. MPEG-4
+
+Format used for Blu-Ray Discs (better quality than
+MPEG-2), standard for streaming videos over the Internet
+
+11. bandwidth
+
+The amount of data that can be transmitted over a network
+in a given amount of time.
+
+2/2
+
+Keyboards & Command Line Interfaces: Crash Course Computer Science
+#22
+Study online at https://quizlet.com/_60c9mr
+
+1. Human-Comput- The study of how people interact with computers and
+er Interaction
+to what extent computers are or are not developed for
+(HCI)
+successful interaction with human beings.
+2. keyboard
+
+An input device that enters data with letters, numbers,
+symbols, and special function keys.
+
+3. QWERTY
+
+denoting the standard layout on English-language typewriters and keyboards, having q, w, e, r, t, and y as the
+first keys from the left on the top row of letters.
+
+4. switching barriers
+
+describe any impediment to a customer's changing of
+suppliers or products
+
+5. touch type
+
+using all your fingers to type without looking at the keyboard
+
+6. Teletype Machine electro-mechanically-augmented typewriters that could
+send and receive text over telegraph lines
+7. Command Line
+Interface (CLI)
+
+A graphic-free user interface, such as the Command
+Prompt program in Windows, where technicians can enter
+commands more quickly and with more flexibility than in a
+GUI (graphical user interface) environment.
+
+8. CONCATENATE
+function
+
+A function that joins two or more text strings into one text
+string
+
+9. Virtual teletype
+or glass teletype machines
+became known
+as
+
+terminals
+
+10. Zork
+
+PC game; interactive fiction: all text and typing
+
+11. MUDS or mulFantasy role-playing games on computers such as "Dunti-user dungeons geons and Dragons", they were the predecessors of today's online games with hundreds of thousands of players.
+1/2
+
+Keyboards & Command Line Interfaces: Crash Course Computer Science
+#22
+Study online at https://quizlet.com/_60c9mr
+
+12. MMORPG
+
+Massively Multiplayer Online Role Playing Game
+
+2/2
+
+Crash Course episode 23
+Study online at https://quizlet.com/_2ix64r
+
+1. what inventions during the civil war
+the telegraph, clothing, and
+helped with the industurial boom that fol- transcontinental railroads
+lowed?
+2. what three things help us to understand Geography: large land and rethe rapid authorization that happened af- sources
+ter the civil war?
+Law
+Demography
+3. what natural resources did the US have coal, iron, steal, and wheat
+at the end of the 1800's
+4. what was one of the biggest contributors immigration because it boosted
+to the increase in the American popula- the economic growth
+tion at the end of the 1800's?
+5. examples of how the railroad improved time zones, national brands and
+our economy
+markets, and also provided a
+large amount of jobs
+6. what are two terms to describe the
+wealthy businessmen at the end of the
+1800's?
+
+captains of industry and robber
+barons
+
+7. who became the wealthiest individual in John D. Rockefeller because he
+the world??
+owned so much of the oil companies
+8. Cornelius Vanderbilt
+
+became rich from his business of
+shipping
+
+9. who were the "unsung" heroes of indus- workers
+trialization
+10. what was the name of the first national
+labor union?
+
+knights of labor
+
+11. what type of issues did the American
+federation of labor focus on?
+
+pay, hours, and safety
+
+1/1
+
+The Cold War and Consumerism: Crash Course Computer Science #24
+Study online at https://quizlet.com/_60cefl
+
+1. Cold War
+
+the power struggle between the Soviet Union and the United States after World War II contributing massive government spending on science and engineering
+
+2. Manhattan Project
+
+A secret U.S. project for the construction of the atomic bomb.
+
+3. UNIVAC I was used by CBS to predict the computer correctly predicted an
+the results of the 1952 US Presidential Eisenhower landslide while pundits
+Election. With just one per cent of the favoured Stevenson.
+vote
+4. MEMEX
+
+A hypothetical machine proposed
+by Vannevar Bush that would allow
+users to store and retrieve information via associative links
+
+5. National Science Foundation (NSF)
+
+An independent agency of the U.S.
+government that promotes the advancement of science and engineering.
+
+6. Apollo Guidance Computer
+
+a digital computer produced for the
+Apollo program that was installed
+on board each Apollo command
+module and Apollo Lunar Module.
+The AGC provided computation and
+electronic interfaces for guidance,
+navigation, and control of the spacecraft
+
+7. video arcade
+
+a public place where there are a
+lot of video games that you play by
+putting money in the machines
+
+8. In just three decades computers had to the point where a child could play
+evolved from machines where you
+with a handheld toy containing a micould literally walk inside of the Su- croprocessor many times faster.
+1/2
+
+The Cold War and Consumerism: Crash Course Computer Science #24
+Study online at https://quizlet.com/_60cefl
+
+per U, assuming you had government
+clearance,
+9. Government funding like the United early adoption of many later comStates provided during the Cold War puter technologies. This funding
+enabled
+helped float entire industries relating to computing long enough for the
+technology to mature and become
+commercially feasible.
+10. Consumerism
+
+A preoccupation with the purchasing of material goods.
+
+2/2
+
+The Personal Computer Revolution: Crash Course Computer Science #25
+Study online at https://quizlet.com/_60cqwp
+
+1. Microcomputer
+
+A single-user computer that comes in many forms, such
+as a desktop model, a portable laptop/notebook, or a
+handheld computer; also called a personal computer.
+
+2. The Altair 8800
+
+The first commercially successful personal computer
+
+3. MITS
+
+Micro Instrumentation and Telemetry Systems (developed
+the Altair 8800 microcomputer in 1973)
+
+4. BASIC
+
+Beginner's All-purpose Symbolic Instruction Code is a
+family of general-purpose, high-level programming languages whose design philosophy emphasizes ease of
+use.
+
+5. interpreter
+
+Converts a program written in a higher level language
+into a lower level language and executes it, beginning
+execution before converting the entire program.
+
+6. Homebrew Com- An early computer hobbyist group in Silicon Valley which
+puter Club
+met from March 5, 1975 to December 1986, and was
+(1975-1986)
+depicted in the films Pirates of Silicon Valley and Jobs, as
+well as the PBS documentary series, Triumph of the Nerds
+7. Steve Jobs
+
+computer industry giant who started Apple Computers,
+Macintosh, I-Phone, etc.
+
+8. Steve Wozniak
+
+Co-founder of Apple and creator of the Apple I and Apple
+II computers
+1/4
+
+The Personal Computer Revolution: Crash Course Computer Science #25
+Study online at https://quizlet.com/_60cqwp
+
+9. Bill Gates
+
+American computer software designer who Co-founded
+Microsoft and built it into one of the Largest computer
+software manufacturers
+
+10. Paul Allen
+
+Co-founder of Microsoft and owner of the NBAs Portland
+Trailblazers
+
+11. Apple II
+
+Apple's earliest product that sold as a complete system
+that was professionally designed and manufactured. It
+also offered rudimentary color graphics and sound output,
+amazing features for a low machine.
+
+12. TRS-80 Model I
+2/4
+
+The Personal Computer Revolution: Crash Course Computer Science #25
+Study online at https://quizlet.com/_60cqwp
+
+a desktop microcomputer launched in 1977 and sold by
+Tandy Corporation through their Radio Shack stores.
+
+13. Commodore PET the first personal computer sold to the public and formed
+2001
+the basis for their entire 8-bit product line, including the
+Commodore 64
+
+14. 1977 Trinity
+
+Byte magazine described Commodore's, Tandy's and Apple's race to own the personal computing market as...
+
+15. 1979s VisiCalc
+
+the first spreadsheet program - which was infinitely better
+than paper - and the forbearer of programs like Microsoft
+Excel and Google Sheets.
+
+16. dirty dozen
+
+A crack team of twelve engineers led by engineer Bill
+Sydnes—which, Lowe promised, could design a prototype
+in 30 days. The crude prototype barely worked when he
+demonstrated it in August, but Lowe presented a detailed
+business plan that proposed that the new computer have
+an open architecture, use non-proprietary components
+and software, and be sold through retail stores, all contrary
+to IBM practice.
+
+17. IBM PC
+
+An early, commercially successful personal computer system that featured a 4.77 MHz Intel 8088 processor, 64 KB
+RAM, and a floppy disk drive. Ancestor to today's PCs.
+
+18. IBM Compatible
+3/4
+
+The Personal Computer Revolution: Crash Course Computer Science #25
+Study online at https://quizlet.com/_60cqwp
+
+Platform that used Intel processors and DOS or Windows
+operating systems
+19. closed architec- proprietary designs that typically prevent people from
+ture
+adding new hardware to their computers
+20. Macintosh
+
+The brand name of a family of personal computers (hardware) and an operating system (software) from Apple,
+introduced in 1984, a graphical user interface.
+
+4/4
+
+Graphical User Interfaces: Crash Course Computer Science #26
+Study online at https://quizlet.com/_60csvn
+
+1. Instead of having to
+remember the right commands to type in
+________________________________________, a graphical user interface sh
+2. Graphical User Interface
+(GUI)
+
+A visual display on a computer's screen that
+allows you to interact with your computer more
+easily by clicking graphical elements.
+
+3. Point and click
+
+"A means of data entry in which the user
+moves the computer's cursor by way of a
+mouse, up-and-down arrows, or some other
+pointing or navigational device to choose an
+icon or data element"
+
+4. intuitive
+
+knowing something by instinct
+
+5. Douglas Engelbert
+
+Worked with hypertext and had the idea of
+GUIs.
+Created the computer mouse.
+
+6. Augmenting Human Intellect
+
+report by Engelbert that stated that the complexity of the problems facing mankind was
+growing faster than our ability to solve them.
+Therefore, finding ways to augment our intellect would seem to be both a necessary and a
+desirable goal.
+
+7. 1968 Fall Joint Computer
+Conference
+
+Featured Englebert's ninety minute demo
+demonstrating many features of modern computing - bitmap graphics, video conferencing,
+word processing, and collaborative, real-time
+editing documents. There were also precursors to modern GUIs, like the mouse and multiple windows, although they couldn't overlap.
+
+8. Xerox PARC 'Alto' 1974
+
+-first working computer Xerox Palo Alto Research Center
+-built new ideas such as networks, object-oriented programming
+-thousands of prototypes manufactured
+-most ideas ended up in Apple ac
+1/3
+
+Graphical User Interfaces: Crash Course Computer Science #26
+Study online at https://quizlet.com/_60csvn
+
+9. desktop
+
+the area of the screen in graphical user interfaces against which icons and windows appear
+
+10. window
+
+This is what appears when you open a folder,
+document or program.
+
+11. WIMP interface
+
+Stands for: Windows, Icons, Menus & Pointers.
+It describes a type of user interface where
+the user selects icons and menu items with a
+pointer of some kind (with a mouse, stylus or
+finger).
+
+12. Widgets
+
+reusable graphical building blocks, things like
+buttons, check boxes, sliders, and tabs which
+were also drawn from real world objects to
+make them familiar
+
+13. Event-driven programming a programming approach whereby the program's behavior is controlled by writing code
+that responds to various events that occur,
+such as Button clicks.
+14. Xerox Star system
+
+The first commercial system to incorporate
+various technologies that have since become
+standard in personal computers, including a
+bitmapped display, a window-based graphical
+user interface, icons, folders, mouse (two-button), Ethernet networking, file servers, print
+servers, and e-mail.
+
+15.
+2/3
+
+Graphical User Interfaces: Crash Course Computer Science #26
+Study online at https://quizlet.com/_60csvn
+
+Where did xerox come up You would literally cut text out with scissors
+with the terms cut, paste and and then paste it with glue into the spot you
+copy?
+wanted in another document, then you photocopied the page to flatten it back down into a
+single layer, making the change invisible.
+16. moot
+
+Open to discussion and debate, unresolved
+
+17. WYSIWYG
+
+An acronym that stands for "What you see is
+what you get." And allows you to see what the
+final document will look like.
+
+18. Xerox approached Apple,
+buy a million dollar stake in Apple before its
+hoping to partner with them. highly anticipated IPO, but it came with an
+Ultimately Xerox was able to extra provision: disclose everything cool going
+on at Xerox Parc.
+19. Apple Lisa
+
+Apple's attempt at duplicating Xerox's Alto but
+it failed and was too expensive (25K)
+
+20. Microsoft BOB
+
+A whole virtual room on your screen with applications embodied as objects that you could
+put onto tables and shelves. It even came with
+a crackling fireplace and a virtual dog to offer
+assistance.
+
+3/3
+
+3D Graphics: Crash Course Computer Science #27
+Study online at https://quizlet.com/_60cugx
+
+1. 3D Graphics
+
+A type of digital graphics format that displays a three-dimensional image on a two-dimensional space.
+
+2. zed
+
+Z
+
+3. How many coor- 3 - X,Y, Zed
+dinates in a 3d
+graphic?
+4. 3D Projection
+
+Produced by algorithms that are responsible for flattening
+3D coordinates onto a 2D plane
+
+5. Wireframe mod- Computer modeling that represents the form of a three-dieling
+mensional object or building by specifying the vertices and
+edges off all mathematically continuous surfaces, including opposite sides and all internal components normally
+hidden from view.
+
+6. Orthographic
+Projection
+
+A method of representing three-dimensional objects on a
+plane having only length and breadth. Also referred to as
+Right Angle Projection.
+
+7. Perspective Pro- A method of projection in which a three dimensional object
+jection
+is represented by projecting all its points to a picture plane
+by straight lines converging at an arbitrarily fixed point
+representing the eye of the owner.
+1/4
+
+3D Graphics: Crash Course Computer Science #27
+Study online at https://quizlet.com/_60cugx
+
+8. Mesh
+
+collection of polygons to create a 3d image
+
+9. The denser the
+mesh,
+
+the smoother the curves and the finer the details, But, that
+also increases the polygon count, which means more work
+for the computer.
+
+10. Algorithms for
+simplifying
+meshes
+
+Balance model fidelity versus polygon count, because if
+the count goes too high, the frame rate of an animation
+drops below what users perceive as smooth.
+
+11. Reason triangles Three points in space unambiguously define a plane, so
+are used
+there is only one answer.
+12. Scanline render- an algorithm for visible surface determination. Scene eling
+ements are projected onto a 2D viewing plane, clipped
+to the image and rendered by filling in the affected pixels. It works on a row-by-row basis rather than a polygon-by-polygon or pixel-by-pixel basis.
+13. Anti-aliasing
+
+Partially fills in pixel edges with additional colors, resulting
+in smooth-edge type and an increased number of colors
+in the image.
+
+2/4
+
+3D Graphics: Crash Course Computer Science #27
+Study online at https://quizlet.com/_60cugx
+
+14. occlusion
+
+When only some are visible because some objects are
+hidden behind other objects in the scene.
+
+15. Painter's Algorithm
+
+A sort algorithm, and arrange all the polygons in the scene
+from farthest to nearest, then render them in order.
+
+16. Z-Buffering
+
+An algorithm in which the graphics processor stores the
+Z-axis value of each pixel in a special area of memory
+called the Z-buffer . Different objects can have the same
+x- and y-coordinate values, but with different z-coordinate
+values. The object with the lowest z-coordinate value is
+in front of the other objects, and therefore that's the one
+that's displayed.
+
+17. Z-Fighting
+
+a phenomenon in 3D rendering that occurs when two
+or more primitives have similar or identical values in the
+z-buffer. Also called "stitching"
+
+18. Back-face culling To save processing time, the back side of polygons are
+often ignored in the rendering pipeline, which cuts the
+number of polygon faces to consider in half. Except when
+there's a bug that lets you get inside of those objects and
+look outwards. Then the avatar head or ground becomes
+invisible
+
+19. 3d shading
+
+When a light source is added each polygon is going to
+be illuminated a different amount based on reflection and
+distance.
+3/4
+
+3D Graphics: Crash Course Computer Science #27
+Study online at https://quizlet.com/_60cugx
+
+20. flat shading
+
+an even application of shading
+
+21. Gouraud shading a per-vertex color computation method used in computer
+graphics to simulate the differing effects of light and colour
+across the surface of an object.
+
+22. Phong Shading
+
+a per-fragment color computation method used in computer graphics to simulate the differing effects of light and
+colour across the surface of an object.
+
+23. Texture Mapping The application of patterns or images to three-dimensional
+graphics to enhance the realism of their surfaces. The
+texturing algorithm will consult the texture in memory, take
+the average color from the corresponding region, and fill
+the polygon accordingly.
+
+4/4
+
+Computer Networks: Crash Course Computer Science #28
+Study online at https://quizlet.com/_60in60
+
+1. LAN
+
+(Local Area Network) A computer network limited to the
+immediate area usually the same building or floor of a
+building or a school campus.
+
+2. Ethernet
+
+a system for connecting a number of computer systems
+to form a local area network, with protocols to control the
+passing of information and to avoid simultaneous transmission by two or more systems.
+
+3. MAC address
+
+A Media Access Control address is a hardware address
+that uniquely identifies each node on a network.
+
+4. CSMA
+
+Carrier Sense Multiple Access--A method used by Ethernet networks to allow shared usage of a baseband network and avoid collisions.
+
+5. bandwidth
+
+the sense in multiple access and the rate at which the
+carrier and transmit data
+
+6. collision
+
+When network traffic increases, the probability that two
+computers will attempt to write data at the same time also
+increases. When that happens the data gets all gobbled
+up, like two people trying to talk on the phone at the same
+time.
+
+7. exponential
+back-off
+
+Backing off behavior using an exponentially growing wait
+time.
+
+8. Collision Domain The portion of an Ethernet network in which collisions
+could occur if two nodes transmit data at the same time.
+9. Network Switch
+
+network controller which connects network devices and
+allows effective communication between these devices
+
+10. The bigger the
+networks the
+more likely that
+there are
+
+multiple paths to get data from one location to another.
+
+11. Network Router
+1/3
+
+Computer Networks: Crash Course Computer Science #28
+Study online at https://quizlet.com/_60in60
+
+A device found at each intersection on the Internet backbone that examines the IP address of incoming data, and
+forwards the data towards its destination.
+12. circuit switching a dedicated connection is formed between two points
+and the connection remains active for the duration of the
+transmission
+13. Message Switch- A telecommunications methodology that controls traffic in
+ing
+which a complete message is sent to a concentration point
+and stored until the communications path is established.
+14. hop count
+
+The counter associated with a packet as it moves from
+node to node within a wide area network. Every time
+the packet moves to the next node, the hop count is
+increased/decreased by 1.
+
+15. Hop Limit
+
+The number of times that an IPv6 packet can be forwarded
+by routers on the network; similar to the TTL field in IPv4
+packets.
+
+16. Internet Protocol A communication standard that enables computers to
+(IP)
+route communications traffic from one network to another
+as needed.
+17. IP address
+
+A number that uniquely identifies each computer or device
+connected to the Internet.
+
+18. TCP/IP
+
+Transmission Control Protocol/Internet Protocol. Protocol
+that connects computers to the Internet. Tells computers
+how to exchange information over the Internet.
+
+19. Packet Switching a mode of data transmission in which a message is broken
+into a number of parts that are sent independently, over
+whatever route is optimum for each packet, and reassembled at the destination.
+20. ICMP
+
+Internet Control Message Protocol A TCP/IP protocol that
+is used by devices to communicate updates or error information to other devices.
+2/3
+
+Computer Networks: Crash Course Computer Science #28
+Study online at https://quizlet.com/_60in60
+
+21. BGP
+
+Border Gateway Protocol A core routing protocol that
+bases routing decisions on the network path and rules.
+
+22. ARPANET
+
+A computer network developed by the Advanced Research Project Agency (now the Defense Advanced Research Projects Agency) in the 1960s and 1970s as a
+means of communication between research laboratories
+and universities. It was the predecessor to the Internet.
+
+3/3
+
+The Internet: Crash Course Computer Science #29
+Study online at https://quizlet.com/_60ixsi
+
+1. internet
+
+A global network connecting millions of computers, making it possible to exchange information. With a backbone
+made up of gigantic routers with super high-bandwidth
+connections running between them
+
+2. wifi router
+
+uses wireless technology to communicate with computing
+devices over short distances of up to 66 feet
+
+3. Wide Area Network (WAN)
+
+A network that connects devices in geographically separated areas.
+
+4. Internet Service A company that connects computers to the internet for a
+Provider (ISP)
+fee. Abbreviated to ISP.
+5. Traceroute program
+
+provides delay measurement from source to router along
+end-end internet path towards destination
+
+6. User Datagram
+Protocol (UDP)
+
+Gets the packet to the right program running on that
+computer and runs checksum, which allows the data to be
+verified for correctness. It can tell you if the data has been
+corrupted but can fix it and it cannot tell you if it got to its
+destination.
+
+7. Transmission
+provides reliable, ordered, and error-checked delivery of a
+Control Protocol stream of packets on the internet. TCP is tightly linked with
+(TCP)
+IP and usually seen as TCP/IP in writing.
+8. ACK
+
+Acknowledgement
+
+9. lag-fragged
+
+While playing an online game, the game lags and when it's
+over, you or whoever you were shooting at is dead.
+
+10. port number
+
+The address on a host where an application makes itself
+available to incoming data.
+
+11. Domain Name
+System (DNS)
+
+The system administered by the Internet Corporation for
+Assigned Names (ICANN) that assigns names to each site
+on the Internet.
+
+12. Physical Layer
+1/2
+
+The Internet: Crash Course Computer Science #29
+Study online at https://quizlet.com/_60ixsi
+
+The lowest, or first, layer of the OSI model. Protocols in
+this layer generate and detect signals so as to transmit and
+receive data over a network medium. These protocols also
+set the data transmission rate and monitor data error rates,
+but do not provide error correction. "electrical signals on
+wires, or radio signals transmitted through the air in the
+case of wireless networks"
+13. Data Link Layer
+
+The second layer in the OSI model. This layer bridges
+the networking media with the Network layer. Its primary
+function is to divide the data it receives from the Network
+layer into frames that can then be transmitted by the Physical layer. "MAC addresses, collision detection, exponential
+backoff"
+
+14. OSI Model
+
+The seven layers describing network functions
+
+15. Network Layer
+
+The third layer in the OSI model. Protocols in this layer
+translate network addresses into their physical counterparts and decide how to route data from the sender to the
+receiver. "all the switching and routing technologies that
+we discussed operate"
+
+16. Transport Layer The fourth layer of the OSI model. In this layer protocols
+ensure that data are transferred from point A to point B
+reliably and without errors. this layer services include flow
+control, acknowledgment, error correction, segmentation,
+reassembly, and sequencing. "UDP and TCP, which are
+responsible for point to point data transfer between computers, and also things like error detection and recovery
+when possible"
+17. Session Layer
+
+The fifth layer in the OSI model. This layer establishes
+and maintains communication between two nodes on the
+network. It can be considered the "traffic cop" for network
+communications. "TCP and UDP are used to open a connection, pass information back and forth, and then close
+the connection when finished"
+
+2/2
+
+The World Wide Web: Crash Course Computer Science #30
+Study online at https://quizlet.com/_60j1n7
+
+1. World Wide Web
+(WWW)
+
+a huge distributed application running on millions of
+servers worldwide, accessed using a special program
+called a web browser
+
+2. The world wide
+internet
+web is not interchangeable with the
+_________.
+3. web page
+
+A document which can display text, graphics, audio,
+video and other elements through a web browser.
+
+4. hyperlink
+
+A block of text or a graphic that when mouse-clicked
+takes the user to a new location to an internal or external page.
+
+5. Associative Indexing
+
+whereby any item may be caused at will to select
+another immediately and automatically
+
+6. Uniform Resource
+Locator (URL)
+
+Internet address that identifies hypertext documents
+
+7. Web Server
+
+A computer that runs special software to serve up Web
+content by responding to requests.
+
+8. The standard
+port number for
+Web servers is
+_____________.
+
+port 80
+
+9. Hypertext Transfer
+Protocol (HTTP)
+
+The set of rules that controls the transfer of web pages.
+It is a protocol that allows web browsers to talk to web
+servers.
+
+10. GET request
+
+An HTTP method in which the client requests data such
+as a web page. The client might provide some data as
+part of the request in the query string of the URL.
+
+11. 404
+
+Unknown trouble
+1/3
+
+The World Wide Web: Crash Course Computer Science #30
+Study online at https://quizlet.com/_60j1n7
+
+12. HTTP added status prefixed any hypertext that as sent following a GET
+codes which
+request.
+13. 200
+
+"OK, I've got the page, and here it is."
+
+14. Hypertext Markup
+Language (HTML)
+
+protocol that controls how Web pages are formatted
+and displayed
+
+15. hyperlink reference the URL address of a Web page the link "goes to", the
+target of the link - "href"
+16. <a>
+
+Defines a hyperlink
+
+17. <ol>
+
+Defines an ordered list
+
+18. <li>
+
+Defines a list item
+
+19. <h1>
+
+Heading 1
+
+20. <h2>
+
+Heading 2
+
+21. If you save HTML
+dragging it into your computer's Web browser.
+text into Notepad
+or Text Edit and
+name it something
+like "test.html", you
+should be able to
+open it by
+22. Cascading Style
+Sheets (CSS)
+
+Allow you to specify styles for various Web page elements.
+
+23. CERN
+
+Conseil Européen pour la Recherche Nucléaire, a provisional body founded in 1952 with the mandate of establishing a world-class fundamental physics research
+organization in Europe.
+
+24. Mosaic Web brows- Developed at the University of Illinois, at Urer
+bana-Champaign in 1993, it was the first browser that
+allowed graphics to be embedded alongside text.
+2/3
+
+The World Wide Web: Crash Course Computer Science #30
+Study online at https://quizlet.com/_60j1n7
+
+25. Yahoo
+
+Initially named Jerry and David's Guides to the World
+Wide Web it was a maintained webpage which served
+as directories hyper-linking to other websites
+
+26. search engines
+
+a program that searches for and identifies items in a
+database that correspond to keywords or characters
+specified by the user, used especially for finding particular sites on the World Wide Web.
+
+27. JumpStation
+
+First web search engine. This consistent of three pieces
+of software that worked together: web crawler, ever-enlargening index and search algorithm.
+
+28. Web Crawler
+
+a program that pre-visits web pages to build an index
+
+29. Backlinks
+
+links from external sources pointing to that webpage
+
+30. Google Algorithm
+
+A set of clearly defined, logical steps that create a
+Google search result from keywords and page rank
+was developed as part of a research project at Stanford
+University in 1996 called BackRub
+
+31. What made Google Instead of trusting the content on a webpage, they
+different (and bet- looked at how other website linked to that page. If it
+ter)?
+was a spam page with the word "cats" written over and
+over again, no site would link to it. But if the webpage
+was an authority on cats, then other sites would likely
+link to it
+32. Net Neutrality
+
+the principle that all Internet traffic should be treated
+equally by Internet Service Providers.
+
+3/3
+
+Cybersecurity: Crash Course Computer Science #31
+Study online at https://quizlet.com/_60j68e
+
+1. Cybersecurity
+
+the state of being protected against the criminal or unauthorized use of electronic data, or the measures taken to
+achieve this.
+
+2. Secrecy, or confi- means that only authorized people would be able to acdentiality
+cess or read specific computer systems and data.
+3. Integrity
+
+means that only authorized people should have the ability
+to use or modify systems and data.
+
+4. Availability
+
+means that authorized people should always have access
+to their systems and data
+
+5. denial of service hackers overload a website with fake requests to make it
+attack
+slow or unreachable for others
+6. Threat Model
+
+A threat model is a diagram and description that tells a
+story of how an attacker could exploit the vulnerability. This
+is a narrative approach to the attack that should help guide
+the mitigation techniques that need to be put in place to
+protect the system at that point. It can define the security of
+an application and reduces the number of vulnerabilities.
+It also has the 2 steps of identifying and prioritizing the
+vulnerabilities.
+
+7. Attack Vector
+
+The path or means by which an attacker gains access to
+a computer.
+
+8. Security Architect
+
+responsible for evaluating security technologies; design
+security aspects of the network topology, access control
+identity management and other security systems; and establish security policies and security requirements
+
+9. 'What You Know' is based on a knowledge of a secret that should be known
+authentication
+only to the real user and the computer. ex. username and
+password
+10. Brute Force Attack
+
+An attack on passwords or encryption that tries every
+possible password or encryption key.
+1/4
+
+Cybersecurity: Crash Course Computer Science #31
+Study online at https://quizlet.com/_60j68e
+
+11. bot-net
+
+is slang term for the computers that have become infected
+with malicious software and can then be used to launch a
+DDoS attack.
+
+12. An 8 character
+600 trillion combinations.
+password with all
+those symbols,
+numbers, upper
+and lower case
+mixed in has
+more than
+13. An 8-digit numer- 100 million combinations.
+ical pin only has
+14. English has
+about 100 thousand words in
+use, so putting
+three together
+would give you
+roughly
+
+one quadrillion possible passwords.
+
+15. 'What you Have' is based on possession of a secret token that only the real
+authentication
+user has. An example is a physical key and lock.
+16. 'What You Are'
+authentication
+
+is based on you. You authenticate by presenting yourself
+to the computer. Biometric authenticators like fingerprint
+readers and iris scanners are classic examples.
+
+17. Researchers re- capturing a photo of you.
+cently showed
+it's possible to
+forge your iris
+just by
+18. Two-factor or
+Multi-factor Authentication
+
+using two or more forms of authentication for important
+accounts
+
+2/4
+
+Cybersecurity: Crash Course Computer Science #31
+Study online at https://quizlet.com/_60j68e
+
+19. Access Control
+
+A security measure that defines who can access a computer, device, or network, when they can access it, and
+what actions they can take while accessing it.
+
+20. Permissions or
+Access Control
+Lists
+
+describe what access each user has for every file, folder
+and program on a computer.
+
+21. Read Permission allows a user to see the contents of a file
+22. Write Permission allows a user to modify the content
+23. Execute Permis- allows a user to run a file like a program
+sion
+24. Bell-LaPadula
+Model
+
+-DoD created this in the 1970's
+-no 'read up', no 'write down'
+-first mathematical model of a multilevel sec policy
+
+25. Chinese Wall
+Model
+
+"Model designed to avoid conflicts of interest by prohibiting
+one person, such as a consultant, from accessing multiple
+conflict of interest (Col) categories."
+
+26. Biba Model
+
+An access control model used to ensure integrity. It uses
+two primary rules: no read down and no write up.
+
+27. Malware
+
+software designed to infiltrate or damage a computer system without the user's informed consent
+
+28. implementation
+bug
+
+means that the code does not match the design
+
+29. security kernel
+
+a minimal set of operating system software that's close to
+provably secure
+
+30. Independent Ver- the code audited by a crowd of security-minded developification and Vali- ers
+dation
+31. Defcon
+3/4
+
+Cybersecurity: Crash Course Computer Science #31
+Study online at https://quizlet.com/_60j68e
+
+conference in Las Vegas where like-minded hackers and
+security experts can mingle and share ideas
+32. sandbox applica- a security mechanism for separating running programs,
+tion
+usually in an effort to mitigate system failures or software
+vulnerabilities from spreading
+33. Virtual Machine
+
+Essentially simulated computers that live in their own
+sandbox. If a program goes awry, worst case is it crashes
+or compromises only the virtual machine on which it's
+running.
+
+4/4
+
+Hackers & Cyber Attacks: Crash Course Computer Science #32
+Study online at https://quizlet.com/_60jbbe
+
+1. cyber attack
+
+a malicious and deliberate attempt by an individual or
+organization to breach the information system of another
+individual or organization
+
+2. hacker
+
+people that make items/systems do things that they
+weren't intended to do
+
+3. White Hats
+
+Also known as ethical hackers, these are computer security experts who specialize in penetration testing and other
+testing methods to ensure that a company's information
+systems are secure.
+
+4. Black Hats
+
+Hackers who specialize in unauthorized penetration of
+information systems. They attack systems for profit, fun,
+or political motivation or as part of a social cause. These
+penetration attacks often involve modifying and destroying
+data.
+
+5. hacktivist
+
+a computer hacker whose activity is aimed at promoting a
+social or political cause.
+
+6. social engineer- where a person is manipulated into divulging confidential
+ing hack
+information or configuring a computer system so that it
+permits entry by attackers
+7. phishing
+
+the fraudulent practice of sending emails purporting to be
+from reputable companies in order to induce individuals to
+reveal personal information, such as passwords and credit
+card numbers.
+
+8. Pre-texting
+
+Creating an invented scenario (the pretext) to convince
+someone to divulge information.
+
+9. Trojan Horses
+
+programs that masquerade as harmless attachments like
+a photo or invoice, but actually contain malicious software
+called malware
+
+10. Ransomware
+
+a type of malicious software designed to block access to
+a computer system until a sum of money is paid.
+1/3
+
+Hackers & Cyber Attacks: Crash Course Computer Science #32
+Study online at https://quizlet.com/_60jbbe
+
+11. NAND Mirroring Where if you have physical access to the computer, you
+can attach wires to the device's memory chip and make
+a perfect copy of its contents. You can try a series of
+passwords until the device starts making you wait. When
+this happens, you just refresh the memory with the original
+copy you made, essentially resetting it, allowing you to try
+more passwords immediately with no waiting
+12. exploit
+
+successfully utilizing a bug to gain capabilities or access
+
+13. buffer overflow
+attack
+
+Inputting so much data that the input buffer overflows. The
+overflow contains code that takes control of the computer.
+
+14. bounds checking Makes sure that the index is within the range of the array
+being referenced. If the index is not valid, an ArrayIndexOutOfBoundsException is thrown. Automatically performed by the index operator.
+15. Canaries
+
+unused space after buffers and keep an eye on all those
+values to see if they change. If they do, they know an
+attacker is monkeying around with memory. These regions
+are named after the small birds miners used to take underground to warn them of dangerous conditions.
+
+16. code injection at- Exploitation of a computer bug that is caused by protack
+cessing invalid data. The attacker introduces (or "injects")
+code into a vulnerable computer program and change the
+course of execution.
+17. zero-day vulnera- software vulnerability that has been previously unreported
+bility
+and for which no patch yet exists
+18. Worms
+
+destructive programs that replicate themselves without
+requiring another program to provide a safe environment
+for replication
+
+19. Why should we A lot of those downloads are security patches.
+do our computer
+updates?
+2/3
+
+Hackers & Cyber Attacks: Crash Course Computer Science #32
+Study online at https://quizlet.com/_60jbbe
+
+20. DDoS (Distributed Denial of
+Service)
+
+is where all the computers in the botnet send a flood of
+dummy messages. This can knock services offline, either
+to force owners to pay a ransom of just to be evil.
+
+21. Cyber attacks
+cost the
+
+global economy roughly half a trillion dollars annually, and
+that figure will only increase as we become more reliant
+on computing systems
+
+22. Many experts
+predict that the
+next war will be
+fought in
+
+cyberspace, where nations are brought to their knees not
+by physical attack, but rather crippled economically and
+infra-structurally through cyber warfare.
+
+23. cracker
+
+A criminal hacker who uses his computer skills to gain
+access to computer systems without permission and/or
+tampers with programs and data, often causing damage
+or destruction.
+
+24. Botnet
+
+a group of compromised computers or mobile devices
+connected to a network
+
+3/3
+
+Cryptography: Crash Course Computer Science #33
+Study online at https://quizlet.com/_60je59
+
+1. Defense in Depth A defense that uses multiple types of security devices to
+protect a network. Also called layered security.
+2. Cryptography
+
+the art of protecting information by transforming it into an
+unreadable format, called cipher text
+
+3. ciphertext
+
+A string of text that has been converted to a secure form
+using encryption.
+
+4. Encryption
+
+Process of converting readable data into unreadable characters to prevent unauthorized access.
+
+5. Decryption
+
+a process that reverses encryption, taking a secret message and reproducing the original plain text
+
+6. Ceasar Cipher
+
+A substitution cipher that shifts characters 3 positions in
+the alphabet
+
+7. key
+
+a piece of information (a parameter) that determines the
+functional output of a cryptographic algorithm
+
+8. substitution ciphers
+
+one letter is used for another.
+
+9. Substitution ci- frequency analysis. In English, "e" and "t" are the most
+phers are broken frequently occurring letters. You figure out where they are.
+with
+10. frequency analy- a count of the number of cases that fall into each category
+sis
+when the categories are based on one variable
+11. Permutation Cipher
+
+a method of encryption by which the positions held by
+units of plaintext are shifted according to a regular system,
+so that the ciphertext constitutes a permutation of the
+plaintext.
+
+12. Columnar Trans- writing the plain text out in rows, and then reading the
+position Cipher ciphertext off in columns
+13.
+1/2
+
+Cryptography: Crash Course Computer Science #33
+Study online at https://quizlet.com/_60je59
+
+Data Encryption A symmetric block cipher that uses a 56-bit key and enStandard (DES) crypts data in 64-bit blocks.
+14. Advanced Encryption Standard (AES)
+
+A block cipher that uses a 128-bit block size and a 128-,
+192-, or 256-bit key size. Practically uncrackable.
+
+15. Diffie-Hellman
+key exchange
+
+Invented in the 1970s, it was the first practical method
+for establishing a shared secret key over an unprotected
+communications channel.
+
+16. modular exponentiation
+
+Applying exponentiation to a value relative to a modulus
+
+17. asymmetric encryption
+
+used in public key encryption, it is scheme in which the key
+to encrypt data is different from the key to decrypt.
+
+18. RSA
+
+Rivest-Shamir-Adleman is the most common internet encryption and authentication system. The system used an
+algorithm that involves multiplying two large prime numbers to generate a public key, used to encrypt data and
+decrypt an authentication, and a private key, used to decrypt the data and encrypt an authentication.
+
+19. Block Cipher
+
+An encryption algorithm in which data is encrypted in
+"chunks" of a certain length at a time. Popular in wired
+networks.
+
+2/2
+
+Machine Learning & Artificial Intelligence: Crash Course Computer Scienc
+#34
+Study online at https://quizlet.com/_60q26p
+
+1. Machine Learning
+
+the extraction of knowledge from data based on algorithms
+created from training data
+
+2. Artificial Intelligence
+
+A scientific field that focuses on creating machines capable of performing activities that require intelligence when
+they are done by people.
+
+3. classifier algorithm
+
+decision process is called classification example: deciding
+if a moth is a luna moth or an emperor moth
+
+4. Features
+
+are values that usefully characterize the things we wish to
+classify
+
+5. Labeled data
+
+a group of samples that have been tagged with one or
+more labels
+
+6. scatter plot
+
+A graph with points plotted to show a possible relationship
+between two sets of data.
+
+7. What do maFind optimal separations.
+chine learning algorithms do?
+8. Decision Bound- The region of a problem space in which the output label of
+aries
+a classifier is ambiguous.
+9. Confusion Matrix a table that is often used to describe the performance of
+a classification model (or "classifier") on a set of test data
+for which the true values are known
+10. misclassify
+
+to assign (someone or something) to an incorrect group or
+category
+
+11. forest
+
+algorithms that use many decision trees working together
+to make a prediction
+
+12. Support Vector
+Machine
+
+Supervised learning classification tool that seeks a dividing hyperplane for any number of dimensions can be used
+for regression or classification
+1/2
+
+Machine Learning & Artificial Intelligence: Crash Course Computer Scienc
+#34
+Study online at https://quizlet.com/_60q26p
+
+13. Statistics
+
+Collection of methods for planning experiments, obtaining
+data, organizing, summarizing, presenting, analyzing, interpreting, and drawing conclusions based on data.
+
+14. Artificial Neural computer systems that are intended to mimic human cogNetworks (ANNs) nitive functioning
+15. Deep Learning
+
+is part of a broader family of machine learning methods
+based on learning data representations, as opposed to
+task-specific algorithms
+
+16. weak AI or narrow AI
+
+is only intelligent at specific tasks
+
+17. strong AI
+
+Artificial intelligence with a generalized learning ability, on
+par with human intelligence.
+
+18. IBM's Watson
+
+Supercomputer that knows almost anything, but
+struggles with real world messy data
+Competed on Jeopardy
+
+19. Google's Alpha- a computer program that plays the board game Go
+Go
+20. reinforcement
+learning
+
+a type of Machine Learning, and thereby also a branch
+of Artificial Intelligence. It allows machines and software
+agents to automatically determine the ideal behaviour
+within a specific context, in order to maximize its performance.
+
+2/2
+
+Computer Vision: Crash Course Computer Science #35
+Study online at https://quizlet.com/_60qpz1
+
+1. computer vision
+
+Techniques to let computers and robots see and understand the world around them.
+
+2. kernel or filter
+
+mathematical equation to determine the bigger the color
+difference between these two sets of pixels, the more
+likely the pixel is on an edge. If the color difference is
+small, it's probably not an edge at all.
+
+3. Grayscale
+
+image is one in which the value of each pixel is a single
+sample representing only an amount of light
+
+4. convolution
+
+operation of applying a kernel to a patch of pixels
+
+5. Prewitt Operators is used in image processing, particularly within edge detection algorithms. Technically, it is a discrete differentiation operator, computing an approximation of the gradient
+of the image intensity function.
+6. Viola-Jones Face In order to be detected, the entire face must point towards
+Detection
+the camera and should not be tilted to either side. After
+the detection step is most often followed by a recognition
+step.
+7. Convolutional
+Type of feed-forward artificial neural network in which
+Neural Networks the connectivity pattern between its neurons is inspired
+by the organization of the animal visual cortex, whose
+individual neurons are arranged in such a way that they
+respond to overlapping regions tiling the visual field.
+8. biometric data
+
+digital scanning of the physiological or behavioral characteristics of individuals as a means of identification
+
+9. CCTV cameras (closed-circuit television)
+
+a system that allows someone to watch on a television
+screen what is happening in different parts of a building,
+town
+
+10. Intelligent Tutor- instructional systems that use artificial intelligence
+ing Systems (ITS)
+11.
+
+to take pictures is not the same as to see."
+1/2
+
+Computer Vision: Crash Course Computer Science #35
+Study online at https://quizlet.com/_60qpz1
+
+Computer vision
+professor Fei-Fei
+Li recently said,
+"Just like to hear
+is not to listen,
+12. fidelity
+
+hi-fi is most commonly a term for the high-quality reproduction of sound or images
+
+13. color marker
+
+able to search pixel by pixel because colors are stored
+inside of single pixels
+
+14. drone
+
+An unmanned aerial vehicle is an aircraft without a human
+pilot aboard
+
+2/2
+
+Natural Language Processing: Crash Course Computer Science #36
+Study online at https://quizlet.com/_60ri5k
+
+1. natural language
+
+Any one of the languages that people speak that
+evolved naturally.
+
+2. natural language
+processing
+
+Techniques for processing human languages to enable
+a computer to understand their meaning.
+
+3. nine fundamental
+types of English
+words:
+
+nouns, pronouns, articles, verbs, adjectives, adverbs,
+prepositions, conjunctions, and interjections
+
+4. grammar
+
+a system of rules that enables us to communicate with
+and understand others
+
+5. Parse Tree
+
+A structure that starts from the individual tokens in a
+statement and shows how these tokens can be grouped
+into predefined grammatical categories.
+
+6. codify
+
+to arrange or set down in writing
+
+7. semantic
+
+Relating to the different meanings of words or other
+symbols
+
+8. Knowledge Graph An infrastructure developed by Google to display related
+information about people, places, and objects.
+9. chatbot
+
+A program designed to carry on a conversation with a
+human user
+
+10. ELIZA
+
+An early natural language processing computer program created from 1964 to 1966 at the MIT Artificial
+Intelligence Laboratory by Joseph Weizenbaum
+
+11. AUDREY
+
+The first true speech recognition device, in 1952. The
+machine understood digits 0-9 if speakers paused in
+between, though it would have to adapt to each user
+before it could capture their speech with reasonable
+accuracy.
+
+12. HARPY
+
+1971, DARPA provided funding for a five-year speech
+recognition project at Carnegie Mellon University. It had
+1/3
+
+Natural Language Processing: Crash Course Computer Science #36
+Study online at https://quizlet.com/_60ri5k
+
+a 1,011-word vocabulary and could also understand
+entire phrases, including where different words started
+and stopped.
+13. SHOEBOX
+
+A voice-activated calculator developed by an IBM engineer for the World's Fair in Seattle: It understood 10
+digits and six control words — plus, minus, total, subtotal, false, and off — and instructed an attached adding
+machine to calculate and print out answers to basic
+spoken math problems.
+
+14. What do the speech deep neural networks
+recognition systems with the best
+accuracy use?
+15. acoustic signal
+
+The pattern of frequencies and intensities of the sound
+stimulus.
+
+16. waveforms
+
+graphic representation of the shape, direction, amplitude, and direction of a particular sound current
+
+17. spectogram
+
+A pattern for sound analysis that provides a three-dimensional display plotting time on the horizontal axis,
+frequency on the vertical axis, and intensity in color
+
+18. Fast Fourier Trans- a mathematical process used for analyzing and proform (FFT)
+cessing the Doppler signal to produce the spectral
+waveform
+19. formants
+
+resonant frequencies of the vocal tract
+
+20. Phonemes
+
+in language, the smallest distinctive sound unit
+
+21. How many
+Roughly 44
+phonemes are
+there in the English
+language?
+22. speech synthesis
+2/3
+
+Natural Language Processing: Crash Course Computer Science #36
+Study online at https://quizlet.com/_60ri5k
+
+The process by which computers produce sound that
+resembles spoken words
+
+3/3
+
+Robots: Crash Course Computer Science #37
+Study online at https://quizlet.com/_60rqov
+
+1. humanoid
+
+having an appearance or character resembling that of a
+human.
+
+2. robot
+
+A robot is a machine that performs complicated tasks and
+is guided by automatic controls.
+
+3. bots or agents
+
+A program that can do things without the user of the
+computer having to give it instructions. Many bots are
+malware as they are installed without people's permission
+and can be controlled over the internet and used to send
+spam or steal data. Also known as web robots.
+
+4. Etymology of
+"robot"
+
+It was first used in a 1920 Czech play to denote artificial,
+humanoid characters. The word was derived from "robota", the slavic-language word for a forced laborer, indicating peasants in compulsory service in feudal, nineteenth
+century Europe
+
+5. automatons
+
+non-electric machine that performed functions automatically
+
+6. Mechanical Turk It was a chess-playing machine constructed in the late
+18th century. Only it was a hoax - there was a dainty
+human stuffed inside the machine.
+7. Computer Numerical Control
+(CNC)
+
+A numerical control method in which one computer is
+linked with one machine tool to perform NC functions.
+
+8. Unimate Robot
+
+Was used by General Motors in the 1950's to assemble
+cars at one of their plants in New Jersey.
+
+9. negative feedback loop
+
+A feedback loop that causes a system to change in the
+opposite direction from which it is moving
+
+10. error
+
+measurement of how far we are from where we want to be
+
+11. proportional-inte- a control loop feedback mechanism to control process
+gral-derivative
+variables and are the most accurate and stable controllers
+controller
+1/2
+
+Robots: Crash Course Computer Science #37
+Study online at https://quizlet.com/_60rqov
+
+12. proportional val- which is the difference between the desired value and
+ue
+the actual value at the most recent instant in time or the
+present
+13. integral value
+
+the sum of the error over a window of time
+
+14. derivative value
+
+the rate of change between the desired and actual values
+
+15. anticipatory con- Alteration or adjustment of the motor program even before
+trol
+any interaction with the environment occurs
+16. What tasks are
+devilishly difficult for robots?
+
+walking on two legs, opening a door, picking up objects
+without crushing them, putting on a t-shirt, or petting a dog
+
+17. Lethal
+The formal name for "military robots," military weapons
+autonomous
+that can function without the continuous involvement of a
+weapons
+human operator
+systems (LAWS)
+18. Isaac Azimov
+
+American writer and professor of biochemistry at Boston
+University.
+
+19. fictional Three
+1. A robot may not injure a human being or, through
+Laws of Robotics inaction, allow a human being to come to harm.
+2. A robot must obey orders given it by human beings
+except where such orders would conflict with the First Law.
+3. A robot must protect its own existence as long as such
+protection does not conflict with the First or Second Law.
+
+2/2
+
+Psychology of Computing: Crash Course Computer Science #38
+Study online at https://quizlet.com/_60s4vs
+
+1. human cognition the development of a person's ability to think and understand
+2. Humans can
+items are put together in small, meaningful groups.
+read, remember,
+and process information more
+effectively when
+3. Humans can gen- short term memory.
+erally juggle 7
+items plus or minus 2 in
+4. Affordances
+
+the possibilities for action offered by objects and situations
+
+5. knurling
+
+produces a regularly shaped, roughened surface on a
+work piece
+
+6. Recognition ver- refers to our ability to "recognize" an event or piece of insus recall
+formation as being familiar versus designates the retrieval
+of related details from memory
+7. Human memory triggered by a sensory cue like a word, picture, or sound.
+is much better
+when it's
+8. expertise
+
+specialized skill or technical knowledge; know-how; expertness
+
+9. Good interfaces multiple paths to accomplish goals
+should offer
+10. Affect-aware sys- use sensors, sometimes worn, that capture things like
+tems
+speech and video of the face, as well as biometrics like
+sweatiness and heart-rate.
+11. Computer-Medi- the exchange of messages carried through an intervening
+ated
+system of digital electronic storage and transmitted between two or more people
+1/2
+
+Psychology of Computing: Crash Course Computer Science #38
+Study online at https://quizlet.com/_60s4vs
+
+Communication
+(CMC)
+12. Emoticons
+
+Typed symbols that convey emotional aspects of an online
+message
+
+13. Augmented Gaze computer vision and graphics software that can warp the
+head and eyes, making it appear as though the instructor
+is looking into the camera, right at the remote viewer.
+14. anthropomorphizing
+
+to give a nonhuman thing a human form, characteristic or
+behavior
+
+15. Human-robot in- A field dedicated to studying these interactions, like how
+teraction or HRI people perceive different robot behaviors and forms or
+how robots can interpret human social cues to blend in
+and not be super awkward.
+16. Uncanny Valley
+
+Used in reference to the phenomenon whereby a computer-generated figure or humanoid robot bearing a
+near-identical resemblance to a human being arouses a
+sense of unease or revulsion in the person viewing it.
+
+2/2
+
+Educational Technology: Crash Course Computer Science #39
+Study online at https://quizlet.com/_60sdgj
+
+1. Dancing Plague
+of 1518
+
+a case of dancing mania that occurred in Strasbourg,
+Alsace, in the Holy Roman Empire in July 1518. Around
+400 people took to dancing for days without rest and, over
+the period of about one month, some of those affected collapsed or even died of heart attack, stroke, or exhaustion
+
+2. proper toilet pa- the 1891 patent for the toilet paper roll literally states that
+per roll orienta- the end of the roll should be hanging off the exterior, so
+tion
+there's that
+3. What can you
+-make sure the pacing is right for you by using the video
+do while watch- speed control
+ing an education- -stop the video at the difficult parts and ask yourself quesal video to intions about what you've watched
+crease what you -try any examples or exercises that are presented in the
+learn and retain video on your own
+by a factor of 10?
+4. Massive Open
+Online Courses
+
+Online learning designed to enroll large numbers of learners who have access to the Internet and composed of interactive coursework including video lectures, discussion
+groups, wikis, and assessment quizzes.
+
+5. production rules "If ... then" or condition-action rules in which the action is
+carried out whenever the appropriate condition is present
+6. Domain Model
+
+a formal representation of the knowledge, procedures, and
+skills of a particular discipline
+
+7. student model
+
+tracks what production rules a student has mastered, and
+where they still need practice
+
+8. Bayesian knowl- an algorithm that models student knowledge in a Hidden
+edge tracing
+Markov Model as a latent variable, updated by observing
+the correctness of each student's interaction in which they
+apply the skill in question. It assumes that student knowledge is represented as a set of binary variables, one per
+skill, where the skill is either mastered by the student or
+not.
+1/2
+
+Educational Technology: Crash Course Computer Science #39
+Study online at https://quizlet.com/_60sdgj
+
+9. probability of
+transit
+
+probability that the student started off the problem not
+knowing how to do the step, but learned how to do it as
+a result of working through the problem
+
+10. probability of slip possibility that she knows it, but made a careless error or
+other slip-up
+11. probability of
+guess
+
+possibility that the student got it correct by accident, and
+doesn't actually understand how to solve the problem
+
+12. probability of
+probability that a student has learned how to do a particknowing the skill ular skill
+13. adaptive sequencing
+
+The capacity of tailoring the order in which learning units
+are presented to learners to their specific characteristics.
+
+14. Educational Data digging for patterns in data collected from digital learnMining
+ing/educational environments
+15. pedagogical
+
+Characteristic of teaching or teachers
+
+2/2
+
+The Singularity, Skynet, and the Future of Computing: Crash Course Com
+puter Science #40
+Study online at https://quizlet.com/_60t5z4
+
+1. complexity brake idea that progress is going to level off and be more of
+an S curve than an exponential one, where as complexity
+increases, it becomes more difficult to make additional
+progress
+2. technological un- where workers in many job sectors are rendered obsolete
+employment
+by computers, like AIs and robots, that can do their work
+better and for less pay
+3. non-routine cog- requires abstract reasoning, systems thinking, collabonitive work
+ration, and the ability to experiment ex. professions like
+teachers and artists, novelists and lawyers, and doctors
+and scientists
+4. Transhumanist
+
+an individual who is in favor of human genetic engineering.
+Believes in the creation of a posthuman, extension of
+human health-span, eradication of disease, elimination
+of unnecessary suffering, and augmentation of human
+intellectual, physical, and emotional capacities.
+
+5. Cyborg
+
+a fictional or hypothetical person whose physical abilities
+are extended beyond normal human limitations by mechanical elements built into the body.
+
+6. digital ascension the hypothetical concept of storing (or transferring) a person's personality in more durable media, i.e., a computer
+7. paradigm shift
+
+a fundamental change in approach or underlying assumptions.
+
+8. Cryptocurrencies
+
+A digital currency in which encryption techniques are used
+to regulate the generation of units of currency and verify
+the transfer of funds, operating independently of a central
+bank. It solves the problem of counterfeiting (fake replicates of real products) and double spending (The risk that
+a digital currency can be spent twice).
+
+9. 3D printing
+
+builds—layer by layer in an additive process—a three-dimensional solid object from a digital model
+1/2
+
+The Singularity, Skynet, and the Future of Computing: Crash Course Com
+puter Science #40
+Study online at https://quizlet.com/_60t5z4
+
+10. Quantum computing
+
+uses the principles of quantum physics to represent data
+and perform operations on these data
+
+11. bioinformatics
+
+application of mathematics and computer science to store,
+retrieve, and analyze biological data
+
+12. dystopian
+
+relating to or denoting an imagined place or state in which
+everything is unpleasant or bad, typically a totalitarian or
+environmentally degraded one.
+
+13. Google Glass
+
+Google's project program for developing a line of
+hands-free, head-mounted intelligent devices that can be
+worn as eyewear.
+
+2/2
+
+

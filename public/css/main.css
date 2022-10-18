@@ -155,6 +155,13 @@ img {
 }
 
 
+.button-icon {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+
 
 
 @media (max-width: 850px){

@@ -100,7 +100,7 @@ const Home = () => {
                 your phone.
               </p>
 
-              <ul className="flex gap-10 items-center justify-center test p-3">
+              <ul className="flex gap-10 items-center justify-center p-3">
                 <div className="flex w-[150px]">
                   <img src={Android} className="object-cover" />
                 </div>

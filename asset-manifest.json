@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.cb4a82c0.css",
-    "main.js": "/Portfolio/static/js/main.9f5a9503.js",
+    "main.js": "/Portfolio/static/js/main.4dac6b02.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/aspect-all.png": "/Portfolio/static/media/aspect-all.f5179ae1fe056c627173.png",
     "static/media/mobile-aruga.png": "/Portfolio/static/media/mobile-aruga.d6f3210f3dc3d25e199e.png",
@@ -12,11 +12,11 @@
     "static/media/laravel-icon.png": "/Portfolio/static/media/laravel-icon.8b2939ca7ad8851c40a2.png",
     "index.html": "/Portfolio/index.html",
     "main.cb4a82c0.css.map": "/Portfolio/static/css/main.cb4a82c0.css.map",
-    "main.9f5a9503.js.map": "/Portfolio/static/js/main.9f5a9503.js.map",
+    "main.4dac6b02.js.map": "/Portfolio/static/js/main.4dac6b02.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb4a82c0.css",
-    "static/js/main.9f5a9503.js"
+    "static/js/main.4dac6b02.js"
   ]
 }

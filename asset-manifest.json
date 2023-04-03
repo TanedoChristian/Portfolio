@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.857c5c70.css",
+    "main.js": "/Portfolio/static/js/main.a6fcfc28.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/aspect-all.png": "/Portfolio/static/media/aspect-all.f5179ae1fe056c627173.png",
+    "static/media/mobile-aruga.png": "/Portfolio/static/media/mobile-aruga.d6f3210f3dc3d25e199e.png",
+    "index.html": "/Portfolio/index.html",
+    "main.857c5c70.css.map": "/Portfolio/static/css/main.857c5c70.css.map",
+    "main.a6fcfc28.js.map": "/Portfolio/static/js/main.a6fcfc28.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.857c5c70.css",
+    "static/js/main.a6fcfc28.js"
+  ]
+}

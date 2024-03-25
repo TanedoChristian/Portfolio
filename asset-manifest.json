@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.1facc9a2.css",
-    "main.js": "/Portfolio/static/js/main.3ec10ebb.js",
+    "main.css": "/Portfolio/static/css/main.4bc380e4.css",
+    "main.js": "/Portfolio/static/js/main.13332e2d.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/aspect-all.png": "/Portfolio/static/media/aspect-all.f5179ae1fe056c627173.png",
     "static/media/mobile-aruga.png": "/Portfolio/static/media/mobile-aruga.d6f3210f3dc3d25e199e.png",
@@ -11,12 +11,12 @@
     "static/media/mongo.png": "/Portfolio/static/media/mongo.92de1058d00fc87c438c.png",
     "static/media/laravel-icon.png": "/Portfolio/static/media/laravel-icon.8b2939ca7ad8851c40a2.png",
     "index.html": "/Portfolio/index.html",
-    "main.1facc9a2.css.map": "/Portfolio/static/css/main.1facc9a2.css.map",
-    "main.3ec10ebb.js.map": "/Portfolio/static/js/main.3ec10ebb.js.map",
+    "main.4bc380e4.css.map": "/Portfolio/static/css/main.4bc380e4.css.map",
+    "main.13332e2d.js.map": "/Portfolio/static/js/main.13332e2d.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1facc9a2.css",
-    "static/js/main.3ec10ebb.js"
+    "static/css/main.4bc380e4.css",
+    "static/js/main.13332e2d.js"
   ]
 }

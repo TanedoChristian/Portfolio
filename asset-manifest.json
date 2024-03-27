@@ -1,8 +1,10 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.4bc380e4.css",
-    "main.js": "/Portfolio/static/js/main.13332e2d.js",
+    "main.css": "/Portfolio/static/css/main.ba59e5e7.css",
+    "main.js": "/Portfolio/static/js/main.33bef6ac.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/mixer-login.png": "/Portfolio/static/media/mixer-login.a775d4a5f03b97d8d4a7.png",
+    "static/media/mixer-home.png": "/Portfolio/static/media/mixer-home.989fadeb4585f37c000e.png",
     "static/media/aspect-all.png": "/Portfolio/static/media/aspect-all.f5179ae1fe056c627173.png",
     "static/media/mobile-aruga.png": "/Portfolio/static/media/mobile-aruga.d6f3210f3dc3d25e199e.png",
     "static/media/react-icon.png": "/Portfolio/static/media/react-icon.81ed438b18e24116794d.png",
@@ -11,12 +13,12 @@
     "static/media/mongo.png": "/Portfolio/static/media/mongo.92de1058d00fc87c438c.png",
     "static/media/laravel-icon.png": "/Portfolio/static/media/laravel-icon.8b2939ca7ad8851c40a2.png",
     "index.html": "/Portfolio/index.html",
-    "main.4bc380e4.css.map": "/Portfolio/static/css/main.4bc380e4.css.map",
-    "main.13332e2d.js.map": "/Portfolio/static/js/main.13332e2d.js.map",
+    "main.ba59e5e7.css.map": "/Portfolio/static/css/main.ba59e5e7.css.map",
+    "main.33bef6ac.js.map": "/Portfolio/static/js/main.33bef6ac.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bc380e4.css",
-    "static/js/main.13332e2d.js"
+    "static/css/main.ba59e5e7.css",
+    "static/js/main.33bef6ac.js"
   ]
 }
